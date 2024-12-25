@@ -1,0 +1,168 @@
+@font-face {
+    font-family: 'Aachen Bold';
+    src: url(./fonts/aachen-bold.otf);
+}
+@font-face {
+    font-family: 'Benguiat Bold';
+    src: url(./fonts/ITCBenguiatStdBoldCn.OTF);
+}
+@font-face {
+    font-family: 'Motor Oil';
+    src: url(./fonts/Motor\ Oil\ 1937\ M54.ttf);
+}
+
+*{
+    margin:0;
+    padding:0;
+    font-size: 1.05em;
+    font-family: 'Motor Oil';
+}
+
+body{
+    min-height: 100vh;
+}
+
+.sidebar{
+    display: none;
+}
+
+a{
+    font-family: 'Benguiat Bold';
+    text-decoration: none;
+    color: #FABB15;
+}
+
+a:visited{
+    font-family: 'Benguiat Bold';
+    text-decoration: none;
+    color: #FABB15;
+}
+
+a:hover{
+    text-decoration: underline;
+}
+
+.navbar a{
+    border-radius: 50px;
+    padding: 0.3em 0.3em 0;
+    transition: 0.2s;
+}
+.navbar a:hover{
+    background: #FABB15;
+    color: #000000;
+    text-decoration: none;
+}
+
+h1{
+    font-size: 2em;
+    margin: 0.5em auto;
+}
+h2{
+    font-size: 1.6em;
+    margin: 0.5em auto;
+}
+
+body{
+    background-color: #000000;
+    color: #FABB15;
+}
+
+h1{
+    font-family: 'Aachen Bold';
+}
+
+.navbar{
+    margin: 0.5em auto 0;
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+}
+
+.navoptions{
+    display: inline-block;
+    margin-right: 2em;
+}
+
+.left{
+    margin-left: 2em;
+}
+
+.subject{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: flex-start;
+}
+
+@media screen and (max-width:930px){
+    body{
+        font-size: 0.7em;
+    }
+    #sidebar-active{
+        display: none;
+    }
+    .open-sidebar{
+        position:fixed;
+        right: 0;
+    }
+    .close-sidebar{
+        margin-bottom: 1em;
+        display: flex;
+        justify-content: flex-end;
+    }
+    .navbar{
+        display: none;
+    }
+    .sidebar{
+        display: flex;
+    }
+    button{
+        background: none;
+    }
+    .hamburger{
+        cursor: pointer;
+    }
+    .nav-bar a{
+        color: #000000;
+    }
+    .nav-bar{
+        height: 100vh;
+        position: fixed;
+        top:0;
+        right: -100%;
+        width: 30vw;
+        background: #FABB15;
+        transition: 0.2s ease-out;
+        z-index: 10;
+    }
+    .nav-bar ul{
+        display: block;
+        width: fit-content;
+        margin-left: 0.8em;
+        text-align: center;
+        list-style: none;
+    }
+    .nav-bar ul li{
+        margin-bottom: 1em;
+    }
+    #sidebar-active:checked ~ .nav-bar{
+        right: 0;
+    }
+    #sidebar-active:checked ~ #overlay{
+        height: 100%;
+        width: 100%;
+        position: fixed;
+        top: 0;
+        left: 0;
+        z-index: 9;
+    }
+}
+
+@media screen and (max-width:535px){
+    body{
+        font-size: 0.4em;
+    }
+    .hamburger{
+        width: 20px;
+        height: 20px;
+    }
+}

@@ -34,6 +34,11 @@ export default function Page() {
                     <ul>
                         
                     </ul>
+                    <h2>Practice Problems</h2>
+                    <ul>
+                        <li><a target="#" href="https://docs.google.com/document/d/1QZGlCiBOThTmcAEsDI0tQyQYGfShmzn-c2NgDoXoOH4/edit?usp=sharing">Coordinate Geometry</a></li>
+                        <li><a target="#" href="https://docs.google.com/document/d/132hAS7ZLpRtj0vT0--1-d4A-KcTVSunKxyDcTCAvnXE/edit?usp=sharing">Simultaneous Linear Equations</a></li>
+                    </ul>
                 </div>
             </div>
         </>

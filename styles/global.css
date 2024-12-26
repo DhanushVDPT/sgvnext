@@ -93,6 +93,10 @@ h1{
     align-items: flex-start;
 }
 
+li{
+    color: #fff;
+}
+
 @media screen and (max-width:930px){
     body{
         font-size: 0.7em;

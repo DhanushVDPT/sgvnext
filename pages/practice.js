@@ -11,8 +11,9 @@ export default function Page() {
                     <h1>Science</h1>
                     <h2>Chapter Tests</h2>
                     <ul>
-                        <li><a target="#" href="https://docs.google.com/document/d/1W4gzfedyLBKGe_ef6k4HzJVboA0fVSE89qWu2cN1YPw/edit?tab=t.0">Observing Space MCQ - Misari didi</a></li>
-                        <li><a target="#" href="https://docs.google.com/document/d/15E48Fu3Y_7yvhKOi37C4CJe1V5dvHqqiMHNI2jZc9uE/edit?tab=t.0">Observing Space Test - Misari didi</a></li>
+                        <li><a target="#" href="https://drive.google.com/file/d/1_xytv-SbjUYj3DxWSt2dByiL2k4qGTFn/view?usp=sharing">Ray Diagrams - Misari didi</a></li>
+                        <li><a target="#" href="https://docs.google.com/document/d/16twJtlNz6oUCL4kFh77MR5PQwG2UYqSWkRtGFr15ZPc/edit?usp=sharing">Observing Space MCQ - Misari didi</a></li>
+                        <li><a target="#" href="https://docs.google.com/document/d/1gw2uvQfK9trresu3SVVqU5m2b0p62FfDc-jLL234OeY/edit?usp=sharing">Observing Space Test - Misari didi</a></li>
                         <li><a target="#" href="https://drive.google.com/file/d/1cF-8D8KAUbBBcVTGV3z9jF_AvqA7QUUD/view?usp=sharing">Observing Space: Telescopes Test</a></li>
                         <li><a target="#" href="https://docs.google.com/document/d/1DzoUXP11t_5lw2NGUIXengSppQ6p288CMQLaYd3K4RE/edit?usp=sharing">Reflection Of Light Test - Srishti Didi</a></li>
                         <li><a target="#" href="https://drive.google.com/file/d/1rbW1vxQpqAqd-8kZWGpVfL21iXbo3iGZ/view?usp=sharing">Reflection Of Light Test</a></li>
@@ -20,15 +21,16 @@ export default function Page() {
                     <h2>Unit Test II Practice Papers</h2>
                     <h3>Coming Soon</h3>
                     <ul>
-                        
+
                     </ul>
                 </div>
                 <div class="math">
                     <h1>Mathematics</h1>
                     <h2>Chapter Tests</h2>
                     <ul>
-                        <li><a target="#" href="https://docs.google.com/document/d/1W4gzfedyLBKGe_ef6k4HzJVboA0fVSE89qWu2cN1YPw/edit?tab=t.0">Linear Equations - Misari didi</a></li>
+                        <li><a target="#" href="https://docs.google.com/document/d/1Io-ISBzv4EBWI2IKJ6Q2X5ggkL8ncWL7SHi78Z6Ovlo/edit?usp=sharing">Linear Equations - Misari didi</a></li>
                         <li><a target="#" href="https://drive.google.com/file/d/1dNHUcCZlqrdzH3DDbAW9P_u_hw17c3JO/view?usp=sharing">Simultaneous Linear Equations Test</a></li>
+                        <li><a target="#" href="https://drive.google.com/file/d/1aCJ2Kg-9tJVFQ5zLxSs-nCyXgxmoEObl/view?usp=sharing">Coordinate Geometry - Misari didi</a></li>
                         <li><a target="#" href="https://drive.google.com/file/d/1LG1H7BJjFJy2d9F_FK9bq0D5ONVlp_Rz/view?usp=sharing">Coordinate Geometry Test</a></li>
                     </ul>
                     <h2>Unit Test II Practice Papers</h2>
@@ -40,6 +42,7 @@ export default function Page() {
                     <ul>
                         <li><a target="#" href="https://docs.google.com/document/d/1QZGlCiBOThTmcAEsDI0tQyQYGfShmzn-c2NgDoXoOH4/edit?usp=sharing">Coordinate Geometry</a></li>
                         <li><a target="#" href="https://docs.google.com/document/d/132hAS7ZLpRtj0vT0--1-d4A-KcTVSunKxyDcTCAvnXE/edit?usp=sharing">Simultaneous Linear Equations</a></li>
+                        <li><a target="#" href="https://drive.google.com/file/d/1nqFRBjXo5yvfDm_ojT_8Za_I1A-TSV55/view?usp=sharing">Linear Equations - Santoshi Didi</a></li>
                     </ul>
                 </div>
             </div>

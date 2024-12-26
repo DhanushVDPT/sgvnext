@@ -20,6 +20,9 @@ const Navbar = () => {
                         <Link href="/">Home</Link>
                         </li>
                         <li>
+                        <Link target="#" href="https://docs.google.com/document/d/11q9957Te--cAKViEMZMqh_FSGB3wxRLmcb7uawJ-Jc0/edit?usp=sharing">English/SST</Link>
+                        </li>
+                        <li>
                         <Link href="/notes">Notes</Link>
                         </li>
                         <li>
@@ -44,6 +47,9 @@ const Navbar = () => {
                     </div>
                 </div>
                 <div className="right">
+                    <div className="navoptions">
+                        <Link target="#" href="https://docs.google.com/document/d/11q9957Te--cAKViEMZMqh_FSGB3wxRLmcb7uawJ-Jc0/edit?usp=sharing">English/SST</Link>
+                    </div>
                     <div className="navoptions">
                         <Link href="/notes">Notes</Link>
                     </div>

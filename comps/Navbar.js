@@ -8,7 +8,7 @@ const Navbar = () => {
             <div className="sidebar">
                     <input type="checkbox" id="sidebar-active"></input>
                     <label for="sidebar-active" className="open-sidebar">
-                        <Image className="hamburger" src="/burger-menu.svg" width={60} height={60}/>
+                        <Image className="hamburger" src="/icons8-xbox-menu-100.png" width={40} height={40}/>
                     </label>
                     <label id="overlay" for="sidebar-active"></label>
                 <nav className="nav-bar">

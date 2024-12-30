@@ -83,6 +83,36 @@ h1{
     margin-right: 2em;
 }
 
+table, th, td {
+    border: 1px solid #fff;
+    border-collapse: collapse;
+}
+
+table{
+    margin: 0 auto;
+}
+
+.ut2table{
+    text-align: center;
+}
+
+th, td{
+    padding: 0.24em;
+}
+
+li{
+    color: #fff;
+    list-style-position: inside;
+}
+
+li a{
+    color: #fff;
+}
+
+li a:visited{
+    color: #fff;
+}
+
 .left{
     margin-left: 2em;
 }
@@ -93,11 +123,7 @@ h1{
     align-items: flex-start;
 }
 
-li{
-    color: #fff;
-}
-
-@media screen and (max-width:930px){
+@media screen and (max-width:1107px){
     body{
         font-size: 0.7em;
     }
@@ -125,9 +151,6 @@ li{
     .hamburger{
         cursor: pointer;
     }
-    .nav-bar a{
-        color: #000000;
-    }
     .nav-bar{
         height: 100vh;
         position: fixed;
@@ -135,7 +158,7 @@ li{
         right: -100%;
         width: 30vw;
         background: #FABB15;
-        transition: 0.2s ease-out;
+        transition: 0.4s ease-out;
         z-index: 10;
     }
     .nav-bar ul{
@@ -147,6 +170,9 @@ li{
     }
     .nav-bar ul li{
         margin-bottom: 1em;
+    }
+    .nav-bar li a{
+        color: #000000;
     }
     #sidebar-active:checked ~ .nav-bar{
         right: 0;

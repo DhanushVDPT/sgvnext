@@ -132,7 +132,8 @@ li a:visited{
     }
     .open-sidebar{
         position:fixed;
-        right: 0;
+        top:0.2em;
+        right: 0.2em;
     }
     .close-sidebar{
         margin-bottom: 1em;

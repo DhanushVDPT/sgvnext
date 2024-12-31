@@ -15,7 +15,6 @@ export default function Page() {
                             <th>Day</th>
                             <th>Time</th>
                             <th>Subject</th>
-                            <th>Marks</th>
                         </tr>
                     </thead>
                     <tbody>
@@ -24,55 +23,46 @@ export default function Page() {
                             <td rowSpan={2}>Wednesday</td>
                             <td>07:20 am to 08:20 am</td>
                             <td>Marathi</td>
-                            <td>20</td>
                         </tr>
                         <tr>
                             <td>08:30 am to 09:30 am</td>
                             <td>History-Civics</td>
-                            <td>20</td>
                         </tr>
                         <tr>
                             <td rowSpan={2}>16/01/2025</td>
                             <td rowSpan={2}>Thursday</td>
                             <td>07:20 am to 08:20 am</td>
                             <td>Hindi</td>
-                            <td>20</td>
                         </tr>
                         <tr>
                             <td>08:30 am to 09:30 am</td>
                             <td>Science I</td>
-                            <td>20</td>
                         </tr>
                         <tr>
                             <td rowSpan={2}>17/01/2025</td>
                             <td rowSpan={2}>Friday</td>
                             <td>07:20 am to 08:20 am</td>
                             <td>English</td>
-                            <td>20</td>
                         </tr>
                         <tr>
                             <td>08:30 am to 09:30 am</td>
                             <td>Algebra</td>
-                            <td>20</td>
                         </tr>
                         <tr>
                             <td rowSpan={2}>18/01/2025</td>
                             <td rowSpan={2}>Saturday</td>
                             <td>07:20 am to 08:20 am</td>
                             <td>Geography</td>
-                            <td>20</td>
                         </tr>
                         <tr>
                             <td>08:30 am to 09:30 am</td>
                             <td>Science II</td>
-                            <td>20</td>
                         </tr>
                         <tr>
                             <td>20/01/2025</td>
                             <td>Monday</td>
                             <td>07:20 am to 08:20 am</td>
                             <td>Geometry</td>
-                            <td>20</td>
                         </tr>
                     </tbody>
                 </table>

@@ -152,6 +152,9 @@ li a:visited{
     .hamburger{
         cursor: pointer;
     }
+    .mobiletitle{
+        margin-top: 1em;
+    }
     .nav-bar{
         height: 100vh;
         position: fixed;

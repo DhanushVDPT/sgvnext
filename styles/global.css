@@ -124,8 +124,11 @@ li a:visited{
 }
 
 @media screen and (max-width:1107px){
+    .mobiletitle{
+        margin-top: 1em;
+    }
     body{
-        font-size: 0.6em;
+        font-size: 0.9em;
     }
     #sidebar-active{
         display: none;
@@ -133,7 +136,7 @@ li a:visited{
     .open-sidebar{
         position:fixed;
         top:0.2em;
-        right: 0.2em;
+        right:0.2em;
     }
     .close-sidebar{
         margin-bottom: 1em;
@@ -152,15 +155,12 @@ li a:visited{
     .hamburger{
         cursor: pointer;
     }
-    .mobiletitle{
-        margin-top: 1em;
-    }
     .nav-bar{
         height: 100vh;
         position: fixed;
         top:0;
         right: -100%;
-        width: 30vw;
+        width: 40vw;
         background: #FABB15;
         transition: 0.4s ease-out;
         z-index: 10;
@@ -189,14 +189,21 @@ li a:visited{
         left: 0;
         z-index: 9;
     }
+    th, td{
+        font-size: 0.78em;
+    }
 }
 
 @media screen and (max-width:535px){
-    th, td{
+    body{
         font-size: 0.8em;
+    }
+    th, td{
+        font-size: 0.63em;
     }
     .subject{
         flex-direction: column;
-        align-items: center;
+        align-items: flex-start;
+        margin-left: 1.5em;
     }
 }

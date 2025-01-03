@@ -38,6 +38,7 @@ export default function Page() {
                         <li><a target="#" href="https://drive.google.com/file/d/1zcCFO7SROC6SdJZktHUAscSwHTpX7efT/view?usp=sharing">Coordinate Geometry</a></li>
                         <li><a target="#" href="https://drive.google.com/file/d/17_YQJrUdraLYd-937mCSmILd3F48S8-T/view?usp=sharing">Financial Planning</a></li>
                         <li><a target="#" href="https://drive.google.com/file/d/1QP5z06GaP9K80wk7fznHMhI9-t78mupz/view?usp=sharing">Circles</a></li>
+                        <li><a target="#" href="https://drive.google.com/file/d/1sbaqqsdD--i284Hz4XKeWs1PPe6Jd4ia/view?usp=sharing">Quadrilaterals - Misari Didi</a></li>
                     </ol>
                 </div>
             </div>

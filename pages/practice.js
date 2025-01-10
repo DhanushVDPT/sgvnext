@@ -9,6 +9,10 @@ export default function Page() {
             <div class="subject">
                 <div class="science">
                     <h1>Science</h1>
+                    <h2>Revision</h2>
+                    <ul>
+                        <li><a target="#" href="https://www.canva.com/design/DAGbzfRc3Ak/zCpcOwl-sM536tr0PaZO6A/edit?utm_content=DAGbzfRc3Ak&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">Misari Didi's Ultimate Revision of Reflection</a></li>
+                    </ul>
                     <h2>Chapter Tests</h2>
                     <ul>
                         <li><a target="#" href="https://drive.google.com/file/d/1_xytv-SbjUYj3DxWSt2dByiL2k4qGTFn/view?usp=sharing">Ray Diagrams - Misari didi</a></li>

@@ -40,11 +40,11 @@ export default function Page() {
                         <li><a target="#" href="https://drive.google.com/file/d/1LG1H7BJjFJy2d9F_FK9bq0D5ONVlp_Rz/view?usp=sharing">Coordinate Geometry Mini Test</a></li>
                         <li><a target="#" href="https://docs.google.com/document/d/104iiaAwerpE27KyCVkrhgGlKcEchqSAKqspjiVIOGx0/edit?usp=sharing">Coordinate Geometry Test</a></li>
                     </ul>
-                    <h2>Unit Test II Practice Papers</h2>
-                    <h3>Coming Soon</h3>
+                    <h2>Unit Test II Practice Papepers</h2>
                     <ul>
                         <li><a target="#" href="https://drive.google.com/file/d/18-HE2sjsmDTz5NtxuHA7Xo2-QpzAQLgG/view?usp=sharing">Unit II - Geometry Practice Paper I</a></li>
                         <li><a target="#" href="https://drive.google.com/file/d/1jSNLUcNJpYoV-g8mVoJIJSpcDkxhyxKx/view?usp=sharing">Unit II - Geometry Practice Paper II</a></li>
+                        <li><a target="#" href="https://drive.google.com/file/d/1kQXHDIh3BiisB8-LJCpI6AimVnr4OiJf/view?usp=drivesdk">Unit II - Algebra Practice Paper I</a></li>
                     </ul>
                     <h2>Practice Problems</h2>
                     <ul>

@@ -19,12 +19,6 @@ export default function Page() {
                     </thead>
                     <tbody>
                         <tr>
-                            <td rowSpan={2}>16/01/2025</td>
-                            <td rowSpan={2}>Thursday</td>
-                            <td>07:20 am to 08:20 am</td>
-                            <td>Hindi</td>
-                        </tr>
-                        <tr>
                             <td>08:30 am to 09:30 am</td>
                             <td>Science I</td>
                         </tr>

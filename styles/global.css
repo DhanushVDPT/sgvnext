@@ -137,7 +137,7 @@ li a:visited{
 
 .card{
     width: 15vw;
-    height: 60vh;
+    height: 10em;
     padding: 1em;
     margin: 1em;
     text-align: center;
@@ -154,7 +154,7 @@ li a:visited{
 }
 
 .cardimg{
-    width: 100%;
+    width: 4em;
     height: auto;
 }
 
@@ -175,6 +175,7 @@ li a:visited{
     width: 96vw;
     display: grid;
     grid-template-columns: 32vw 32vw 32vw;
+    justify-items: center;
 }
 
 .lists a:hover{
@@ -255,12 +256,12 @@ li a:visited{
         z-index: 9;
     }
     .cardimg{
-        width: 70%;
+        width: 5em;
         height: auto;
     }
     .card{
-        width: 25vw;
-        height: 23vh;
+        width: 24vw;
+        height: 10em;
     }
     .lists {
         font-size: 1.2em;
@@ -282,7 +283,7 @@ li a:visited{
         align-items: flex-start;
     }
     .cardimg{
-        width: 60%;
+        width: 5em;
         height: auto;
     }
     .card{

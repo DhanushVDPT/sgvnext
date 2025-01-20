@@ -24,19 +24,13 @@ const Navbar = () => {
                         <Link target="#" href="https://docs.google.com/document/d/11q9957Te--cAKViEMZMqh_FSGB3wxRLmcb7uawJ-Jc0/edit?usp=sharing">English/SST</Link>
                         </li>
                         <li>
-                        <Link href="/notes">Notes</Link>
+                        <Link href="/math">Math</Link>
+                        </li>
+                        <li>
+                        <Link href="/science">Science</Link>
                         </li>
                         <li>
                         <Link target="#" href="https://docs.google.com/document/d/19COmvU8sWkFJ8HkDNQk2mKFqkHAvKj829Cr4nKtZ3Ls/edit?usp=sharing">Homework</Link>
-                        </li>
-                        <li>
-                        <Link href="/practice">Practice</Link>
-                        </li>
-                        <li>
-                        <Link target="#" href="https://docs.google.com/document/d/1hUVtMP8colMaVbgJOmaxryzKjIiaFUXyEiNWkgRG9Ck/edit?tab=t.0#heading=h.smhguothqycy">Errors</Link>
-                        </li>
-                        <li>
-                        <Link href="/books">Resources</Link>
                         </li>
                     </ul>
                 </nav>
@@ -52,19 +46,13 @@ const Navbar = () => {
                         <Link target="#" href="https://docs.google.com/document/d/11q9957Te--cAKViEMZMqh_FSGB3wxRLmcb7uawJ-Jc0/edit?usp=sharing">English/SST</Link>
                     </div>
                     <div className="navoptions">
-                        <Link href="/notes">Notes</Link>
+                        <Link href="/math">Math</Link>
+                    </div>
+                    <div className="navoptions">
+                        <Link href="/science">Science</Link>
                     </div>
                     <div className="navoptions">
                         <Link target="#" href="https://docs.google.com/document/d/19COmvU8sWkFJ8HkDNQk2mKFqkHAvKj829Cr4nKtZ3Ls/edit?usp=sharing">Homework</Link>
-                    </div>
-                    <div className="navoptions">
-                        <Link href="/practice">Practice</Link>
-                    </div>
-                    <div className="navoptions">
-                        <Link target="#" href="https://docs.google.com/document/d/1hUVtMP8colMaVbgJOmaxryzKjIiaFUXyEiNWkgRG9Ck/edit?tab=t.0#heading=h.smhguothqycy">Errors</Link>
-                    </div>
-                    <div className="navoptions">
-                        <Link href="/books">Resources</Link>
                     </div>
                 </div>
             </div>

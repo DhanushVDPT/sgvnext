@@ -118,13 +118,73 @@ li a:visited{
 }
 
 .subject{
+    width: 96vw;
     display: flex;
     justify-content: space-evenly;
     align-items: flex-start;
     margin-left: 1.5em;
+    margin-right: auto;
+    flex-direction: column;
+}
+.cardsbox{
+    width: 96vw;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
 }
 
-@media screen and (max-width:1107px){
+.card{
+    width: 15vw;
+    height: 60vh;
+    padding: 1em;
+    margin: 1em;
+    text-align: center;
+    background-color: #222222;
+    border: 5px solid #000000;
+}
+
+.cardsbox a:hover{
+    text-decoration: none;
+}
+
+.card:hover {
+    border: 5px solid #FABB15;
+}
+
+.cardimg{
+    width: 100%;
+    height: auto;
+}
+
+.lists a {
+    display: block;
+    text-align: center;
+    align-content: center;
+    width: 20vw;
+    margin: 1em;
+    padding: 1em;
+    background-color: #FABB15;
+    border-radius: 0.75em;
+    border: 5px solid #000000;
+    color: #000000;
+}
+
+.lists {
+    width: 96vw;
+    display: grid;
+    grid-template-columns: 32vw 32vw 32vw;
+}
+
+.lists a:hover{
+    text-decoration: none;
+    background-color: #fff;
+    color: #000000;
+    border: 5px solid #fff;
+}
+
+@media screen and (max-width:1155px){
     .mobiletitle{
         margin-top: 1em;
     }
@@ -161,7 +221,7 @@ li a:visited{
         position: fixed;
         top:0;
         right: -100%;
-        width: 40vw;
+        width: 25vw;
         background: #FABB15;
         transition: 0.4s ease-out;
         z-index: 10;
@@ -190,20 +250,53 @@ li a:visited{
         left: 0;
         z-index: 9;
     }
-    th, td{
-        font-size: 1em;
+    .cardimg{
+        width: 70%;
+        height: auto;
+    }
+    .card{
+        width: 25vw;
+        height: 23vh;
+    }
+    .lists {
+        font-size: 1.2em;
+    }
+    .subjecth2{
+        font-size: 1.8em;
     }
 }
 
-@media screen and (max-width:535px){
+@media screen and (max-width:755px){
     body{
         font-size: 0.7em;
     }
-    th, td{
-        font-size: 0.68em;
+    h1{
+        font-size: 1.73em;
     }
     .subject{
         flex-direction: column;
         align-items: flex-start;
+    }
+    .cardimg{
+        width: 60%;
+        height: auto;
+    }
+    .card{
+        width: 35vw;
+        margin: 0.4em;
+        padding: 0.4em;
+    }
+    .nav-bar{
+        font-size: 1.5em;
+        width: 45vw;
+        height: 105vh;
+    }
+    .lists {
+        grid-template-columns: 46vw 46vw;
+        justify-items: center;
+        font-size: 1.2em;
+    }
+    .lists a{
+        width: 30vw;
     }
 }

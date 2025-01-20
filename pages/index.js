@@ -1,4 +1,6 @@
 import Head from "next/head"
+import Link from "next/link"
+import Image from "next/image"
 
 export default function Page() {
     return (
@@ -6,32 +8,33 @@ export default function Page() {
             <Head>
                 <title>SGV 9th | Home</title>
             </Head>
-            <div className="ut2table">
-                <h1>Unit Test II Timetable</h1>
-                <table>
-                    <thead>
-                        <tr>
-                            <th>Date</th>
-                            <th>Day</th>
-                            <th>Time</th>
-                            <th>Subject</th>
-                        </tr>
-                    </thead>
-                    <tbody>
-                        <tr>
-                            <td>20/01/2025</td>
-                            <td>Monday</td>
-                            <td>07:20 am to 08:20 am</td>
-                            <td>Geometry</td>
-                        </tr>
-                    </tbody>
-                </table>
-            </div>
-            <div>
-                <h1>WELCOME</h1>
-                <h2>This page is created to serve as a common place for all necessary academic resources.</h2>
-                <h2>Do check out the notes and additional resources sections for now, everything else is a work in progress</h2>
-            </div>
+            <h1 className="heading">Unit II Question Papers</h1>
+            <div className="cardsbox">
+                    <Link target="#" href="https://drive.google.com/file/d/1GUK0xIH_Gyape0tz5lYjuAc1Crdfcrm9/view?usp=sharing">
+                        <div className="card">
+                            <h2>Math I</h2>
+                            <Image alt="icon" className="cardimg" src="/algebra.png" width={512} height={512}></Image>
+                        </div>
+                    </Link>
+                    <Link target="#" href="https://drive.google.com/file/d/1TBmfCYjD0CXrV_nlyf5R2WdEBd5O9g7o/view?usp=sharing">
+                        <div className="card">
+                            <h2>Math II</h2>
+                            <Image alt="icon" className="cardimg" src="/geometry.png" width={512} height={512}></Image>
+                        </div>
+                    </Link>
+                    <Link target="#" href="https://drive.google.com/file/d/1BdKAuHZQM9OTulNDErIFIHw43LvFr5_c/view?usp=sharing">
+                        <div className="card">
+                            <h2>Science I</h2>
+                            <Image alt="icon" className="cardimg" src="/science1.png" width={512} height={512}></Image>
+                        </div>
+                    </Link>
+                    <Link target="#" href="https://drive.google.com/file/d/15l0Hyh1IlL8WohEaROZzHzyYIZfDmaY5/view?usp=sharing">
+                        <div className="card">
+                            <h2>Science II</h2>
+                            <Image alt="icon" className="cardimg" src="/biology.png" width={512} height={512}></Image>
+                        </div>
+                    </Link>
+                </div>
         </>
     )
 }

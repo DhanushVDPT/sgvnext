@@ -10,6 +10,7 @@ export default function Page() {
                 <h1>Mathematics | Notes</h1>
                 <h2 className="subjecth2">Lecture Notes</h2>
                 <div className="lists">
+                    <a target="#" href="https://docs.google.com/document/d/1OXG-pClqaF0_ogcLrazFB0uunArEWg0x5tzR9qTiEZo/edit?usp=sharing">Trigonometry</a>
                     <a target="#" href="https://drive.google.com/file/d/1XJseoJxCJIJduBGtqxFgdcVmyVyKmvjl/view?usp=sharing">Simultaneous Linear Equations</a>
                     <a target="#" href="https://drive.google.com/file/d/1zcCFO7SROC6SdJZktHUAscSwHTpX7efT/view?usp=sharing">Coordinate Geometry</a>
                     <a target="#" href="https://drive.google.com/file/d/17_YQJrUdraLYd-937mCSmILd3F48S8-T/view?usp=sharing">Financial Planning</a>

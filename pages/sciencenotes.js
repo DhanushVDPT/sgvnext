@@ -10,6 +10,7 @@ export default function Page() {
                 <h1>Science | Notes</h1>
                 <h2 className="subjecth2">Lecture Notes</h2>
                 <div className="lists">
+                    <a target="#" href="https://docs.google.com/document/d/1E4Gvqy3iVc8paiQJ3hIriwm_PcmVR5yElTn7AEdSX-8/edit?usp=sharing">Heredity and Variation</a>
                     <a target="#" href="https://drive.google.com/file/d/1IGN4H9DAluH4kIFqpJc8Io_4sA8eRKmf/view?usp=sharing">Reflection of Light</a>
                     <a target="#" href="https://docs.google.com/document/d/1f464V1AyH-uxSncxDu3pgJap6Q64xeskbUrBgNnZ-ww/edit?usp=sharing">Carbon: An Important Element</a>
                 </div>

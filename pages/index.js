@@ -34,6 +34,24 @@ export default function Page() {
                             <Image alt="icon" className="cardimg" src="/biology.png" width={512} height={512}></Image>
                         </div>
                     </Link>
+                    <Link target="#" href="https://docs.google.com/document/d/10KEKf9uWVkzHIvY4OVxbw0vkEAPbxn5ECoPEiJVyzp4/edit?usp=sharing">
+                        <div className="card">
+                            <h2>English</h2>
+                            <Image alt="icon" className="cardimg" src="/eng.png" width={512} height={512}></Image>
+                        </div>
+                    </Link>
+                    <Link target="#" href="https://docs.google.com/document/d/1dresyusKzuqfO8wzNvPEr_eySjtba9S_/edit?usp=sharing&ouid=103475778307044104461&rtpof=true&sd=true">
+                        <div className="card">
+                            <h2>History</h2>
+                            <Image alt="icon" className="cardimg" src="/axis.png" width={512} height={512}></Image>
+                        </div>
+                    </Link>
+                    <Link target="#" href="https://docs.google.com/document/d/1IwqQhWxjjv6ElE1L_cs9bfL0xCqUYN4b/edit?usp=sharing&ouid=103475778307044104461&rtpof=true&sd=true">
+                        <div className="card">
+                            <h2>Geography</h2>
+                            <Image alt="icon" className="cardimg" src="/geography.png" width={512} height={512}></Image>
+                        </div>
+                    </Link>
                 </div>
         </>
     )

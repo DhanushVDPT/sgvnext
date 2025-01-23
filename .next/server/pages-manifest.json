@@ -2,11 +2,7 @@
   "/_app": "pages/_app.js",
   "/_error": "pages/_error.js",
   "/_document": "pages/_document.js",
-  "/math": "pages/math.js",
-  "/mathpractice": "pages/mathpractice.js",
   "/mathbooks": "pages/mathbooks.js",
-  "/mathmodelpapers": "pages/mathmodelpapers.js",
-  "/sciencepractice": "pages/sciencepractice.js",
-  "/": "pages/index.js",
-  "/science": "pages/science.js"
+  "/math": "pages/math.js",
+  "/": "pages/index.js"
 }

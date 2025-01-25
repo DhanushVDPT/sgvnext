@@ -8,6 +8,33 @@ export default function Page() {
             <Head>
                 <title>SGV 9th | Home</title>
             </Head>
+            <h1 className="heading">Unit II Answer Keys</h1>
+            <div className="cardsbox">
+                    <Link target="#" href="https://drive.google.com/file/d/1vzLmNU5xKquLNpztRes4lYiVqQtE7N25/view?usp=sharing">
+                        <div className="card">
+                            <h2>Math I</h2>
+                            <Image alt="icon" className="cardimg" src="/algebra.png" width={512} height={512}></Image>
+                        </div>
+                    </Link>
+                    <Link target="#" href="https://drive.google.com/file/d/110CrQ4B9lYEMJD0TyRGRVLLZSe9apXtN/view?usp=sharing">
+                        <div className="card">
+                            <h2>Math II</h2>
+                            <Image alt="icon" className="cardimg" src="/geometry.png" width={512} height={512}></Image>
+                        </div>
+                    </Link>
+                    <Link target="#" href="https://drive.google.com/file/d/1FK07gkZcZg5sphSyobeSzu1K9RkelPtV/view?usp=sharing">
+                        <div className="card">
+                            <h2>Science I</h2>
+                            <Image alt="icon" className="cardimg" src="/science1.png" width={512} height={512}></Image>
+                        </div>
+                    </Link>
+                    <Link target="#" href="https://drive.google.com/file/d/17FpiWTPRd5W_-6kOR8Iznutvo8OpRDqV/view?usp=sharing">
+                        <div className="card">
+                            <h2>Science II</h2>
+                            <Image alt="icon" className="cardimg" src="/biology.png" width={512} height={512}></Image>
+                        </div>
+                    </Link>
+                </div>
             <h1 className="heading">Unit II Question Papers</h1>
             <div className="cardsbox">
                     <Link target="#" href="https://drive.google.com/file/d/1GUK0xIH_Gyape0tz5lYjuAc1Crdfcrm9/view?usp=sharing">

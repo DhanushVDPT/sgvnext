@@ -34,7 +34,7 @@ export default function Page() {
                             <Image alt="icon" className="cardimg" src="/biology.png" width={512} height={512}></Image>
                         </div>
                     </Link>
-                </div>
+            </div>
             <h1 className="heading">Unit II Question Papers</h1>
             <div className="cardsbox">
                     <Link target="#" href="https://drive.google.com/file/d/1GUK0xIH_Gyape0tz5lYjuAc1Crdfcrm9/view?usp=sharing">

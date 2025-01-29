@@ -21,8 +21,8 @@ export default function Page() {
                         <label for="second"><h2 className="subjecth2">Heredity & Variation</h2></label>
                         <div className="lists accordioncontent">
                             <a target="#" href="https://www.canva.com/design/DAGc9YT7B7c/AlOVTSCFLYsacIn-o6Nylg/view?utm_content=DAGc9YT7B7c&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h4956fb47b5">Lectures Slides</a>
-                            <a target="#" href="https://ncert.nic.in/textbook.php?jesc1=8-13">NCERT: Heredity</a>
                             <a target="#" href="https://drive.google.com/file/d/15elK-_29PfG1jw4LYnvNuGLk3VJkd1SM/view?usp=sharing">Genetics: A Conceptual Approach - Benjamin Pierce</a>
+                            <a target="#" href="https://ncert.nic.in/textbook.php?jesc1=8-13">NCERT: Heredity</a>
                             <a target="#" href="https://www.youtube.com/playlist?list=PL5xvztUyPgDoQOnuWsLbrlqShE27M9PQD">Lectures - Thomas Mennella</a>
                         </div>
                     </li>

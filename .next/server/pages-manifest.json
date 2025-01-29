@@ -3,6 +3,8 @@
   "/_error": "pages/_error.js",
   "/_document": "pages/_document.js",
   "/math": "pages/math.js",
+  "/sciencebooks": "pages/sciencebooks.js",
   "/science": "pages/science.js",
-  "/sciencebooks": "pages/sciencebooks.js"
+  "/": "pages/index.js",
+  "/mathpractice": "pages/mathpractice.js"
 }

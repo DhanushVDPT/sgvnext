@@ -22,6 +22,7 @@ export default function Page() {
                         <input type="radio" name="accordion" id="second"></input>
                         <label for="second"><h2 className="subjecth2">Trigonometry</h2></label>
                         <div className="lists accordioncontent">
+                            <a target="#" href="https://drive.google.com/file/d/1gP7zP3gh7WL_uJEMRJfbtQ5TYuoSbFXM/view?usp=sharing">Trigonometry Formula Sheet</a>
                             <a target="#" href="https://ncert.nic.in/textbook.php?jemh1=8-14">NCERT: Trigonometry</a>
                             <a target="#" href="https://ncert.nic.in/textbook.php?jemh1=9-14">NCERT: Heights And Distances</a>
                             <a target="#" href="https://drive.google.com/file/d/1yzNfMnQPkWjwT-EU0czwvoPnAWq3HCoG/view?usp=sharing">ICSE: Trigonometry</a>

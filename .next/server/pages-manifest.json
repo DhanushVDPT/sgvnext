@@ -2,9 +2,10 @@
   "/_app": "pages/_app.js",
   "/_error": "pages/_error.js",
   "/_document": "pages/_document.js",
-  "/math": "pages/math.js",
-  "/sciencebooks": "pages/sciencebooks.js",
-  "/science": "pages/science.js",
   "/": "pages/index.js",
+  "/math": "pages/math.js",
+  "/mathbooks": "pages/mathbooks.js",
+  "/science": "pages/science.js",
+  "/mathnotes": "pages/mathnotes.js",
   "/mathpractice": "pages/mathpractice.js"
 }

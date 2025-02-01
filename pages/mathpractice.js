@@ -27,6 +27,7 @@ export default function Page() {
                         <label for="second"><h2 className="subjecth2">Practice Problems</h2></label>
                         <div className="lists accordioncontent">
                             <a target="#" href="https://docs.google.com/document/d/1K7Yx9tnqdB3m0XzlOMB4Bx2ZoWzwYCN4VKk_QVuvEeg/edit?usp=sharing">Trigonometry</a>
+                            <a target="#" href="https://drive.google.com/file/d/1pUEGz4ebrpkvDzc8xtDbvKj6DPu_mWSZ/view?usp=sharing">Mensuration - Santoshi Didi</a>
                             <a target="#" href="https://docs.google.com/document/d/1QZGlCiBOThTmcAEsDI0tQyQYGfShmzn-c2NgDoXoOH4/edit?usp=sharing">Coordinate Geometry</a>
                             <a target="#" href="https://docs.google.com/document/d/132hAS7ZLpRtj0vT0--1-d4A-KcTVSunKxyDcTCAvnXE/edit?usp=sharing">Simultaneous Linear Equations</a>
                             <a target="#" href="https://drive.google.com/file/d/1nqFRBjXo5yvfDm_ojT_8Za_I1A-TSV55/view?usp=sharing">Linear Equations - Santoshi Didi</a>

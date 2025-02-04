@@ -34,6 +34,12 @@ export default function Page() {
                             <Image alt="icon" className="cardimg" src="/biology.png" width={512} height={512}></Image>
                         </div>
                     </Link>
+                    <Link target="#" href="https://drive.google.com/file/d/142tdfEzkrEPDhc8XmaaCCdZ2vjnEjvj0/view?usp=sharing">
+                        <div className="card">
+                            <h2>History</h2>
+                            <Image alt="icon" className="cardimg" src="/axis.png" width={512} height={512}></Image>
+                        </div>
+                    </Link>
             </div>
             <h1 className="heading">Unit II Question Papers</h1>
             <div className="cardsbox">

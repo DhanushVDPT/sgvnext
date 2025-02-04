@@ -37,15 +37,23 @@ export default function Page() {
                     </li>
                     <li>
                         <input type="radio" name="accordion" id="third"></input>
-                        <label for="third"><h2 className="subjecth2">Circles</h2></label>
+                        <label for="third"><h2 className="subjecth2">Statistics</h2></label>
+                        <div className="lists accordioncontent">
+                            <a target="#" href="https://ncert.nic.in/textbook.php?jemh1=13-14">NCERT: Statistics</a>
+                            <a target="#" href="https://www.studiestoday.com/sites/default/files/books/icsebooks/ICSE-Class-9-Maths-Chapter-18-Statistics.pdf">ICSE Statistics</a>
+                        </div>
+                    </li>
+                    <li>
+                        <input type="radio" name="accordion" id="fourth"></input>
+                        <label for="fourth"><h2 className="subjecth2">Circles</h2></label>
                         <div className="lists accordioncontent">
                             <a target="#" href="https://ncert.nic.in/textbook.php?iemh1=9-12">NCERT: Circles</a>
                             <a target="#" href="https://drive.google.com/file/d/16z3lqw4ccAXGAt_ULlIrnartuLRpFHlM/view?usp=sharing">ICSE: Circle</a>
                         </div>
                     </li>
                     <li>
-                        <input type="radio" name="accordion" id="fourth"></input>
-                        <label for="fourth"><h2 className="subjecth2">Coordinate Geometry</h2></label>
+                        <input type="radio" name="accordion" id="fifth"></input>
+                        <label for="fifth"><h2 className="subjecth2">Coordinate Geometry</h2></label>
                         <div className="lists accordioncontent">
                             <a target="#" href="https://ncert.nic.in/textbook.php?iemh1=3-12">NCERT: Coordinate Geometry</a>
                             <a target="#" href="https://drive.google.com/file/d/1bccold1ElocEvjjLl-dnGcOvXfS8rWZX/view?usp=sharing">ICSE: Coordinate Geometry</a>
@@ -57,8 +65,8 @@ export default function Page() {
                         </div>
                     </li>
                     <li>
-                        <input type="radio" name="accordion" id="fifth"></input>
-                        <label for="fifth"><h2 className="subjecth2">Financial Planning</h2></label>
+                        <input type="radio" name="accordion" id="sixth"></input>
+                        <label for="sixth"><h2 className="subjecth2">Financial Planning</h2></label>
                         <div className="lists accordioncontent">
                             <a target="#" href="https://ncert.nic.in/textbook.php?hemh1=7-13">NCERT: Commerical Math</a>
                             <a target="#" href="https://www.studiestoday.com/sites/default/files/books/icsebooks/ICSE-Class-10-Maths-ad-Chapter-01-Compound-Interest.pdf">ICSE: Compound Interest</a>
@@ -67,8 +75,8 @@ export default function Page() {
                         </div>
                     </li>
                     <li>
-                        <input type="radio" name="accordion" id="sixth"></input>
-                        <label for="sixth"><h2 className="subjecth2">Simultaneous Linear Equations</h2></label>
+                        <input type="radio" name="accordion" id="seventh"></input>
+                        <label for="seventh"><h2 className="subjecth2">Simultaneous Linear Equations</h2></label>
                         <div className="lists accordioncontent">
                             <a target="#" href="https://ncert.nic.in/textbook.php?iemh1=4-12">NCERT: Linear Equations In Two Variables</a>
                             <a target="#" href="https://ncert.nic.in/textbook.php?jemh1=3-14">NCERT: Pair of Linear Equations In Two Variables</a>

@@ -13,6 +13,7 @@ export default function Page() {
                         <input type="radio" name="accordion" id="first"></input>
                         <label for="first"><h2 className="subjecth2">Lecture Notes</h2></label>
                         <div className="lists accordioncontent">
+                            <a target="#" href="https://docs.google.com/document/d/12L2qqd9M4eFK3Ua-en7Uy5B4D_qZJpCrok02GayHxeM/edit?tab=t.0">Statistics</a>
                             <a target="#" href="https://docs.google.com/document/d/1OXG-pClqaF0_ogcLrazFB0uunArEWg0x5tzR9qTiEZo/edit?usp=sharing">Trigonometry</a>
                             <a target="#" href="https://drive.google.com/file/d/1XJseoJxCJIJduBGtqxFgdcVmyVyKmvjl/view?usp=sharing">Simultaneous Linear Equations</a>
                             <a target="#" href="https://drive.google.com/file/d/1zcCFO7SROC6SdJZktHUAscSwHTpX7efT/view?usp=sharing">Coordinate Geometry</a>

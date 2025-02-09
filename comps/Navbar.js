@@ -58,6 +58,12 @@ const Navbar = () => {
                         <Link href="/science">Science</Link>
                     </div>
                     <div className="navoptions">
+                        <Link href="/marathi">Marathi</Link>
+                    </div>
+                    <div className="navoptions">
+                        <Link href="/hindi">Hindi</Link>
+                    </div>
+                    <div className="navoptions">
                         <Link target="#" href="https://docs.google.com/document/d/19COmvU8sWkFJ8HkDNQk2mKFqkHAvKj829Cr4nKtZ3Ls/edit?usp=sharing">Homework</Link>
                     </div>
                 </div>

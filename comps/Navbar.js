@@ -30,6 +30,12 @@ const Navbar = () => {
                         <Link href="/science">Science</Link>
                         </li>
                         <li>
+                        <Link href="/marathi">Marathi</Link>
+                        </li>
+                        <li>
+                        <Link href="/hindi">Hindi</Link>
+                        </li>
+                        <li>
                         <Link target="#" href="https://docs.google.com/document/d/19COmvU8sWkFJ8HkDNQk2mKFqkHAvKj829Cr4nKtZ3Ls/edit?usp=sharing">Homework</Link>
                         </li>
                     </ul>

@@ -19,6 +19,14 @@ export default function Page() {
                         </div>
                     </li>
                     <li>
+                        <input type="radio" name="accordion" id="second1"></input>
+                        <label for="second1"><h2 className="subjecth2">Mensuration</h2></label>
+                        <div className="lists accordioncontent">
+                            <a target="#" href="https://drive.google.com/file/d/1AOUpXUYkUOujYLxikj9k2yfXNlZ7Kwww/view?usp=sharing">Mensuration Formula Sheet</a>
+                            <a target="#" href="https://ncert.nic.in/textbook.php?iemh1=11-12">NCERT: Mensuration</a>
+                        </div>
+                    </li>
+                    <li>
                         <input type="radio" name="accordion" id="second"></input>
                         <label for="second"><h2 className="subjecth2">Trigonometry</h2></label>
                         <div className="lists accordioncontent">

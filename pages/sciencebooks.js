@@ -18,7 +18,15 @@ export default function Page() {
                     </li>
                     <li>
                         <input type="radio" name="accordion" id="second"></input>
-                        <label for="second"><h2 className="subjecth2">Heredity & Variation</h2></label>
+                        <label for="second"><h2 className="subjecth2">Biotechnology</h2></label>
+                        <div className="lists accordioncontent">
+                            <a target="#" href="https://ncert.nic.in/textbook.php?iesc1=6-12">NCERT: Tissues</a>
+                            <a target="#" href="https://drive.google.com/file/d/1HTdElxjGOsutDU2fhtl39L9pXKr4pnZF/view?usp=sharing">ICSE: Tissues</a>
+                        </div>
+                    </li>
+                    <li>
+                        <input type="radio" name="accordion" id="third"></input>
+                        <label for="third"><h2 className="subjecth2">Heredity & Variation</h2></label>
                         <div className="lists accordioncontent">
                             <a target="#" href="https://www.canva.com/design/DAGc9YT7B7c/AlOVTSCFLYsacIn-o6Nylg/view?utm_content=DAGc9YT7B7c&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h4956fb47b5">Lectures Slides</a>
                             <a target="#" href="https://drive.google.com/file/d/15elK-_29PfG1jw4LYnvNuGLk3VJkd1SM/view?usp=sharing">Genetics: A Conceptual Approach - Benjamin Pierce</a>
@@ -27,16 +35,16 @@ export default function Page() {
                         </div>
                     </li>
                     <li>
-                        <input type="radio" name="accordion" id="third"></input>
-                        <label for="third"><h2 className="subjecth2">Reflection Of Light</h2></label>
+                        <input type="radio" name="accordion" id="fourth"></input>
+                        <label for="fourth"><h2 className="subjecth2">Reflection Of Light</h2></label>
                         <div className="lists accordioncontent">
                             <a target="#" href="https://ncert.nic.in/textbook.php?jesc1=9-13">NCERT: Light</a>
                             <a target="#" href="https://drive.google.com/file/d/1bAIg6HTAxLX4o4MbsQuAO67VERndJjzc/view?usp=sharing">ICSE Reflection Of Light</a>
                         </div>
                     </li>
                     <li>
-                        <input type="radio" name="accordion" id="fourth"></input>
-                        <label for="fourth"><h2 className="subjecth2">Carbon: An Important Element</h2></label>
+                        <input type="radio" name="accordion" id="fifth"></input>
+                        <label for="fifth"><h2 className="subjecth2">Carbon: An Important Element</h2></label>
                         <div className="lists accordioncontent">
                             <a target="#" href="https://ncert.nic.in/textbook.php?jesc1=4-13">NCERT: Carbon and its compounds</a>
                             <a target="#" href="https://drive.google.com/file/d/1HAk4MQhqR2sjmXyxnE-LJa2T1_reHsJQ/view?usp=sharing">ICSE Carbon</a>

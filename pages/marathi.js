@@ -10,6 +10,13 @@ export default function Page() {
                 <h1>Marathi | Notes</h1>
                 <ul className="accordion">
                     <li>
+                        <input type="radio" name="accordion" id="second"></input>
+                        <label for="second"><h2 className="subjecth2">ते जीवनदायी झाड</h2></label>
+                        <div className="lists accordioncontent">
+                            <a target="#" href="https://drive.google.com/file/d/1YyV-E9EmgrDAOU0E1BdKsHm6ew4gDgCF/view?usp=sharing">Chapter Notes</a>
+                        </div>
+                    </li>
+                    <li>
                         <input type="radio" name="accordion" id="first"></input>
                         <label for="first"><h2 className="subjecth2">तिफन</h2></label>
                         <div className="lists accordioncontent">

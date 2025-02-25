@@ -17,6 +17,14 @@ export default function Page() {
                         </div>
                     </li>
                     <li>
+                        <input type="radio" name="accordion" id="sixth"></input>
+                        <label for="sixth"><h2 className="subjecth2">Sound</h2></label>
+                        <div className="lists accordioncontent">
+                            <a target="#" href="https://ncert.nic.in/textbook.php?iesc1=11-12">NCERT: Sound</a>
+                            <a target="#" href="https://drive.google.com/file/d/1eeHkDUnztrQz2C0AK-lAKxADCBCO_gNS/view?usp=sharing">ICSE: Sound Propogation</a>
+                        </div>
+                    </li>
+                    <li>
                         <input type="radio" name="accordion" id="second"></input>
                         <label for="second"><h2 className="subjecth2">Biotechnology</h2></label>
                         <div className="lists accordioncontent">

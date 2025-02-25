@@ -13,6 +13,7 @@ export default function Page() {
                         <input type="radio" name="accordion" id="first"></input>
                         <label for="first"><h2 className="subjecth2">Lecture Notes</h2></label>
                         <div className="lists accordioncontent">
+                            <a target="#" href="https://docs.google.com/document/d/1GQEUz8BjVr7p75qWyn8GXxvHMDXhNnUSRDzMC2Zx1R0/edit?usp=sharing">Sound</a>
                             <a target="#" href="https://docs.google.com/document/d/1kz8ywf_sioWIeFU23aY99PdHpWE-9LJINNJyBw1hPqA/edit?usp=sharing">Biotechnology</a>
                             <a target="#" href="https://docs.google.com/document/d/1E4Gvqy3iVc8paiQJ3hIriwm_PcmVR5yElTn7AEdSX-8/edit?usp=sharing">Heredity and Variation</a>
                             <a target="#" href="https://drive.google.com/file/d/1IGN4H9DAluH4kIFqpJc8Io_4sA8eRKmf/view?usp=sharing">Reflection of Light</a>

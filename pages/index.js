@@ -8,6 +8,51 @@ export default function Page() {
             <Head>
                 <title>SGV 9th | Home</title>
             </Head>
+            <h1 className="heading">TFI Mumbai Semester 2 Practice Papers</h1>
+            <div className="cardsbox">
+                    <Link target="#" href="https://drive.google.com/file/d/1Gj9P7Y_j2whID4d82ySGycUclJHjK4VB/view?usp=sharing">
+                        <div className="card">
+                            <h2>Math I</h2>
+                            <Image alt="icon" className="cardimg" src="/algebra.png" width={512} height={512}></Image>
+                        </div>
+                    </Link>
+                    <Link target="#" href="https://drive.google.com/file/d/1sXWV1SCetmkqjm4A5WB6StIbgMFpfEqq/view?usp=sharing">
+                        <div className="card">
+                            <h2>Math II</h2>
+                            <Image alt="icon" className="cardimg" src="/geometry.png" width={512} height={512}></Image>
+                        </div>
+                    </Link>
+                    <Link target="#" href="https://drive.google.com/file/d/130vv68xVH7Z3Qf0j2HhCb90H-inWgj2n/view?usp=sharing">
+                        <div className="card">
+                            <h2>Science I</h2>
+                            <Image alt="icon" className="cardimg" src="/science1.png" width={512} height={512}></Image>
+                        </div>
+                    </Link>
+                    <Link target="#" href="https://drive.google.com/file/d/1BuyDbWmms2oAHIikYIgG32pFmSrq9lxJ/view?usp=sharing">
+                        <div className="card">
+                            <h2>Science II</h2>
+                            <Image alt="icon" className="cardimg" src="/biology.png" width={512} height={512}></Image>
+                        </div>
+                    </Link>
+                    <Link target="#" href="https://drive.google.com/file/d/1cNIteG9N2mxLG1_myir494hEh5F2ipMz/view?usp=sharing">
+                        <div className="card">
+                            <h2>History</h2>
+                            <Image alt="icon" className="cardimg" src="/axis.png" width={512} height={512}></Image>
+                        </div>
+                    </Link>
+                    <Link target="#" href="https://drive.google.com/file/d/1cNIteG9N2mxLG1_myir494hEh5F2ipMz/view?usp=sharing">
+                        <div className="card">
+                            <h2>Geography</h2>
+                            <Image alt="icon" className="cardimg" src="/geography.png" width={512} height={512}></Image>
+                        </div>
+                    </Link>
+                    <Link target="#" href="https://drive.google.com/file/d/1kiBd_HWZ6In7svL1j7uCuxMHdTnH__TA/view?usp=sharing">
+                        <div className="card">
+                            <h2>English</h2>
+                            <Image alt="icon" className="cardimg" src="/eng.png" width={512} height={512}></Image>
+                        </div>
+                    </Link>
+            </div>
             <h1 className="heading">Unit II Answer Keys</h1>
             <div className="cardsbox">
                     <Link target="#" href="https://drive.google.com/file/d/1vzLmNU5xKquLNpztRes4lYiVqQtE7N25/view?usp=sharing">

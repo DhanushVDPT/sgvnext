@@ -40,7 +40,7 @@ export default function Page() {
                             <Image alt="icon" className="cardimg" src="/axis.png" width={512} height={512}></Image>
                         </div>
                     </Link>
-                    <Link target="#" href="https://drive.google.com/file/d/1cNIteG9N2mxLG1_myir494hEh5F2ipMz/view?usp=sharing">
+                    <Link target="#" href="https://drive.google.com/file/d/1eGcgPeoLj1AtimtkzatWlbMByyr6CV1U/view?usp=sharing">
                         <div className="card">
                             <h2>Geography</h2>
                             <Image alt="icon" className="cardimg" src="/geography.png" width={512} height={512}></Image>

@@ -10,6 +10,14 @@ export default function Page() {
                 <h1>Mathematics | Practice</h1>
                 <ul className="accordion">
                     <li>
+                        <input type="radio" name="accordion" id="third"></input>
+                        <label for="third"><h2 className="subjecth2">Revision</h2></label>
+                        <div className="lists accordioncontent">
+                            <a target="#" href="https://docs.google.com/document/d/1aAxbhwMBUjNjKMl7xnzvviPNLNfgTMmNRDkYz7C7clA/edit?tab=t.0">Misari didi's ultimate question bank</a>
+                            <a target="#" href="https://docs.google.com/document/d/1-HF6j_HXVwdDn-DtKUfEVaa8mGirqAx8ROcEEbkjxtI/edit?usp=sharing">Daily revision tests</a>
+                        </div>
+                    </li>
+                    <li>
                         <input type="radio" name="accordion" id="first"></input>
                         <label for="first"><h2 className="subjecth2">Chapter Tests</h2></label>
                         <div className="lists accordioncontent">

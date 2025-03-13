@@ -11,6 +11,14 @@ export default function Page() {
                 <ul className="accordion">
                     <li>
                         <input type="radio" name="accordion" id="first"></input>
+                        <label for="first"><h2 className="subjecth2">Semester Exam II</h2></label>
+                        <div className="lists accordioncontent">
+                            <a target="#" href="">Science I</a>
+                            <a target="#" href="https://drive.google.com/file/d/1Vsdce5rok4xQtrhiopqv1KXp5R6eVIf1/view?usp=sharing">Science II</a>
+                        </div>
+                    </li>
+                    <li>
+                        <input type="radio" name="accordion" id="first"></input>
                         <label for="first"><h2 className="subjecth2">Unit Test II</h2></label>
                         <div className="lists accordioncontent">
                             <a target="#" href="https://drive.google.com/file/d/1PDeGThastWv7_ASnmIzjloLPhGo3E543/view?usp=drivesdk">Science I</a>

@@ -16,6 +16,13 @@ export default function Page() {
                             <a target="#" href="https://drive.google.com/file/d/1I61Tr7Hgemv0Lf6k9jwejO8xU8EZx1aF/view?usp=sharing">Chapter Notes</a>
                         </div>
                     </li>
+                    <li>
+                        <input type="radio" name="accordion" id="first"></input>
+                        <label for="first"><h2 className="subjecth2">स्वतंत्रता गान</h2></label>
+                        <div className="lists accordioncontent">
+                            <a target="#" href="https://drive.google.com/file/d/1_lSx8wm9mnqEHtoRupWBIKiB3KwGvFqO/view?usp=sharing">Chapter Notes</a>
+                        </div>
+                    </li>
                 </ul>
             </div>
         </>

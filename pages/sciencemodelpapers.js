@@ -13,7 +13,7 @@ export default function Page() {
                         <input type="radio" name="accordion" id="first"></input>
                         <label for="first"><h2 className="subjecth2">Semester Exam II</h2></label>
                         <div className="lists accordioncontent">
-                            <a target="#" href="">Science I</a>
+                            <a target="#" href="https://drive.google.com/file/d/1je7FumjCQ4S4X0wqUbTr24zR_VaSwLih/view?usp=sharing">Science I</a>
                             <a target="#" href="https://drive.google.com/file/d/1Vsdce5rok4xQtrhiopqv1KXp5R6eVIf1/view?usp=sharing">Science II</a>
                         </div>
                     </li>

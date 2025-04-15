@@ -4,7 +4,7 @@ export default function Page() {
     return (
         <>
             <Head>
-                <title>SGV 9th | Marathi | Notes</title>
+                <title>SGV 10th | Marathi | Notes</title>
             </Head>
             <div className="subject">
                 <h1>Marathi | Notes</h1>

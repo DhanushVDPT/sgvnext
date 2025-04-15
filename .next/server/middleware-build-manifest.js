@@ -25,10 +25,10 @@ self.__BUILD_MANIFEST = {
       "static/chunks/main.js",
       "static/chunks/pages/math.js"
     ],
-    "/mathpractice": [
+    "/mathnotes": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
-      "static/chunks/pages/mathpractice.js"
+      "static/chunks/pages/mathnotes.js"
     ]
   },
   "ampFirstPages": []

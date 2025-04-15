@@ -6,7 +6,7 @@ export default function Page() {
     return (
         <>
             <Head>
-                <title>SGV 9th | Math</title>
+                <title>SGV 10th | Math</title>
             </Head>
             <div className="subject">
                 <h1>Mathematics</h1>

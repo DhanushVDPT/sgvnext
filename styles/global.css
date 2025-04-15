@@ -233,6 +233,19 @@ input[type="radio"]{
     color: #FABB15;
 }
 
+.launch-time {
+    display: flex;
+}
+
+.launch-time div {
+    flex-basis: 100px;
+}
+
+.launch-time div p {
+    font-size: 60px;
+    margin-bottom: -14px;
+}
+
 @media screen and (max-width:1155px){
     .mobiletitle{
         margin-top: 1em;

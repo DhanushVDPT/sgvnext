@@ -4,7 +4,7 @@ export default function Page() {
     return (
         <>
             <Head>
-                <title>SGV 9th | Math | Model Papers</title>
+                <title>SGV 10th | Math | Model Papers</title>
             </Head>
             <div className="subject">
                 <h1>Mathematics | Model Papers</h1>

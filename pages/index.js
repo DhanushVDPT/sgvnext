@@ -33,6 +33,11 @@ export default function Page() {
                             <h2>Board Question Paper's History</h2>
                         </div>
                     </Link>
+                    <Link target="#" href="https://drive.google.com/drive/folders/19X6wqCJYVMeKimWJyhrJkmrmXyG54l12?usp=sharing">
+                        <div className="card">
+                            <h2>Previous Years' Board Papers</h2>
+                        </div>
+                    </Link>
             </div>
         </>
     )

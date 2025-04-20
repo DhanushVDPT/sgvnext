@@ -38,9 +38,6 @@ const Navbar = () => {
                         <li>
                         <Link target="#" href="https://docs.google.com/document/d/19COmvU8sWkFJ8HkDNQk2mKFqkHAvKj829Cr4nKtZ3Ls/edit?usp=sharing">Homework</Link>
                         </li>
-                        <li>
-                        <Link target="#" href="https://docs.google.com/document/d/1-HF6j_HXVwdDn-DtKUfEVaa8mGirqAx8ROcEEbkjxtI/edit?usp=sharing">Revision</Link>
-                        </li>
                     </ul>
                 </nav>
             </div>
@@ -68,9 +65,6 @@ const Navbar = () => {
                     </div>
                     <div className="navoptions">
                         <Link target="#" href="https://docs.google.com/document/d/19COmvU8sWkFJ8HkDNQk2mKFqkHAvKj829Cr4nKtZ3Ls/edit?usp=sharing">Homework</Link>
-                    </div>
-                    <div className="navoptions">
-                        <Link target="#" href="https://docs.google.com/document/d/1-HF6j_HXVwdDn-DtKUfEVaa8mGirqAx8ROcEEbkjxtI/edit?usp=sharing">Revision</Link>
                     </div>
                 </div>
             </div>

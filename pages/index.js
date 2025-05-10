@@ -28,6 +28,11 @@ export default function Page() {
                 </div>
             </div> */}
             <div className="cardsbox">
+                    <Link target="#" href="https://docs.google.com/document/d/1d-YW2mvaIO5Q55pzMbOHoz7RoZZvWLt1qyczAEEd9aM/edit?usp=sharing">
+                        <div className="card">
+                            <h2>HOLIDAY HOMEWORK MAY 2025</h2>
+                        </div>
+                    </Link>
                     <Link target="#" href="https://docs.google.com/spreadsheets/d/1Fb0ugQukttfpNGN_EwT55_Nrjtj2RmyB-LKg3JFrIDo/edit?usp=sharing">
                         <div className="card">
                             <h2>Board Question Paper's History</h2>

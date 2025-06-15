@@ -10,6 +10,18 @@ export default function Page() {
                 <h1>Science | Practice</h1>
                 <ul className="accordion">
                     <li>
+                        <input type="radio" name="accordion" id="third"></input>
+                        <label for="third"><h2 className="subjecth2">Board Exam Questions</h2></label>
+                        <div className="lists accordioncontent">
+                            <a target="#" href="https://docs.google.com/document/d/1H5AfZMhET70_lTbhsvELDunefiSdLyV41ZZksMFmpWc/edit?tab=t.91jq5xx29jzg">Gravitation</a>
+                            <a target="#" href="https://docs.google.com/document/d/1289PS03dqSraeMtHv0wXwfrtosaikGNrPKZJsacZb88/edit?tab=t.91jq5xx29jzg">Space Missions</a>
+                            <a target="#" href="https://docs.google.com/document/d/1wXOe3WL-iUoU8CSxve7LEK8rR1suXDiEXMIT1evm80g/edit?tab=t.91jq5xx29jzg">Refraction</a>
+                            <a target="#" href="https://docs.google.com/document/d/1Vsp39imU_pIPZplL0zxFgac_mhre38-g1xPO4yML5EE/edit?tab=t.91jq5xx29jzg">Lenses</a>
+                            <a target="#" href="https://docs.google.com/document/d/1ayty3R5zsynHhyJ81175GdDViAyGZUN_z8tGr0blnic/edit?tab=t.91jq5xx29jzg">Electricity</a>
+                            <a target="#" href="https://docs.google.com/document/d/1ZQIP7DZQzzfnlJ5V2Ix21J9CoDpnEbvcwK9ycMK8Q6I/edit?tab=t.91jq5xx29jzg">Heat</a>
+                        </div>
+                    </li>
+                    <li>
                         <input type="radio" name="accordion" id="first"></input>
                         <label for="first"><h2 className="subjecth2">Revision</h2></label>
                         <div className="lists accordioncontent">

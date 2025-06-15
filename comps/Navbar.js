@@ -6,7 +6,7 @@ const Navbar = () => {
     return (
         <nav>
             <div className="sidebar">
-                <h2 className="mobiletitle">SGV 9th Grade</h2>
+                <h2 className="mobiletitle">SGV 10th Grade</h2>
                     <input type="checkbox" id="sidebar-active"></input>
                     <label for="sidebar-active" className="open-sidebar">
                         <Image className="hamburger" src="/icons8-xbox-menu-100.png" width={40} height={40}/>

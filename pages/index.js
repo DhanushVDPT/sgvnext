@@ -33,14 +33,19 @@ export default function Page() {
                             <h2>Homework 2025-26</h2>
                         </div>
                     </Link>
-                    <Link target="#" href="https://docs.google.com/spreadsheets/d/1Fb0ugQukttfpNGN_EwT55_Nrjtj2RmyB-LKg3JFrIDo/edit?usp=sharing">
-                        <div className="card">
-                            <h2>Board Question Paper's History</h2>
-                        </div>
-                    </Link>
-                    <Link target="#" href="https://drive.google.com/drive/folders/19X6wqCJYVMeKimWJyhrJkmrmXyG54l12?usp=sharing">
+                    <Link target="#" href="https://drive.google.com/drive/folders/19X6wqCJYVMeKimWJyhrJkmrmXyG54l12?usp=drive_link">
                         <div className="card">
                             <h2>Previous Years' Board Papers</h2>
+                        </div>
+                    </Link>
+                    <Link href="/21set">
+                        <div className="card">
+                            <h2>21 Set</h2>
+                        </div>
+                    </Link>
+                    <Link href="/mission35">
+                        <div className="card">
+                            <h2>Mission 35</h2>
                         </div>
                     </Link>
             </div>

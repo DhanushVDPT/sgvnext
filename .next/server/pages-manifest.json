@@ -1,8 +1,7 @@
 {
   "/_app": "pages/_app.js",
-  "/_document": "pages/_document.js",
   "/_error": "pages/_error.js",
-  "/science": "pages/science.js",
-  "/sciencenotes": "pages/sciencenotes.js",
-  "/": "pages/index.js"
+  "/_document": "pages/_document.js",
+  "/": "pages/index.js",
+  "/mission35": "pages/mission35.js"
 }

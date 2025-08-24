@@ -4,38 +4,18 @@ export default function Page() {
     return (
         <>
             <Head>
-                <title>SGV 10th | Marathi | Notes</title>
+                <title>SGV 10th | Marathi</title>
             </Head>
             <div className="subject">
-                <h1>Marathi | Notes</h1>
+                <h1>Marathi</h1>
                 <ul className="accordion">
                     <li>
-                        <input type="radio" name="accordion" id="second"></input>
-                        <label for="second"><h2 className="subjecth2">विश्वकोश</h2></label>
-                        <div className="lists accordioncontent">
-                            <a target="#" href="https://drive.google.com/file/d/1uR_ZwLby659dgPm15eIxDefeT3IQlzMJ/view?usp=sharing">Chapter Notes</a>
-                        </div>
-                    </li>
-                    <li>
-                        <input type="radio" name="accordion" id="second"></input>
-                        <label for="second"><h2 className="subjecth2">माझे शिक्षक व संस्कार​</h2></label>
-                        <div className="lists accordioncontent">
-                            <a target="#" href="https://drive.google.com/file/d/1BR_bNau8SkLJJKuizhOX6ObKThRZsxPI/view?usp=sharing">Chapter Notes</a>
-                        </div>
-                    </li>
-                    <li>
-                        <input type="radio" name="accordion" id="second"></input>
-                        <label for="second"><h2 className="subjecth2">ते जीवनदायी झाड</h2></label>
-                        <div className="lists accordioncontent">
-                            <a target="#" href="https://drive.google.com/file/d/1YyV-E9EmgrDAOU0E1BdKsHm6ew4gDgCF/view?usp=sharing">Chapter Notes</a>
-                        </div>
-                    </li>
-                    <li>
                         <input type="radio" name="accordion" id="first"></input>
-                        <label for="first"><h2 className="subjecth2">तिफन</h2></label>
+                        <label for="first"><h2 className="subjecth2">Books</h2></label>
                         <div className="lists accordioncontent">
-                            <a target="#" href="https://drive.google.com/file/d/1vS-kHbUbYFXqPbRnnQV7QrjBVY3lNPeh/view?usp=sharing">Chapter Notes</a>
-                            <a target="#" href="https://drive.google.com/file/d/1JUjztdi62SmxsqS8Xi7aDsR9OoDrTcGX/view?usp=sharing">Poem Appretiation</a>
+                            <a target="#" href="https://drive.google.com/file/d/19sS0v8DgBQ17i7d0Lkj4_DvX9BtQ_HJC/view?usp=sharing">Textbook</a>
+                            <a target="#" href="https://drive.google.com/file/d/1nNcdYFisrloz7kU0Wwn0psVXdPzaCX30/view?usp=drive_link">21 Set</a>
+                            <a target="#" href="https://drive.google.com/file/d/1FdpOBqQ9Q3vZ2xInEPDG2WHIw3Y6b-dA/view?usp=drive_link">Mission 35</a>
                         </div>
                     </li>
                 </ul>

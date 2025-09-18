@@ -24,6 +24,7 @@ export default function Page() {
                         <input type="radio" name="accordion" id="second"></input>
                         <label for="second"><h2 className="subjecth2">Questions & Answers</h2></label>
                         <div className="lists accordioncontent">
+                            <a target="#" href="https://docs.google.com/document/d/1MGsgnplseC0TxJhKE73BjuqBBVyzBDOQRNfUdkhTYno/edit?usp=sharing">Chemical Reactions</a>
                             <a target="#" href="https://docs.google.com/document/d/1hGraFgqtdfUz6VTDAR0UueNz1wvSAhcuGyGwNageKaY/edit?usp=sharing">Periodic Classification</a>
                             <a target="#" href="https://docs.google.com/document/d/1oErYxNx3yjx4CM6RXEeV011RtB44pvZQbroNadeR4D8/edit?usp=sharing">Green Energy</a>
                             <a target="#" href="https://docs.google.com/document/d/1ayty3R5zsynHhyJ81175GdDViAyGZUN_z8tGr0blnic/edit?tab=t.mgtuakqtcb4b">Current Electricity</a>

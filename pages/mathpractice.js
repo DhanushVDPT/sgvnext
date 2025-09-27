@@ -10,35 +10,28 @@ export default function Page() {
                 <h1>Mathematics | Practice</h1>
                 <ul className="accordion">
                     <li>
-                        <input type="radio" name="accordion" id="third"></input>
-                        <label for="third"><h2 className="subjecth2">Revision</h2></label>
-                        <div className="lists accordioncontent">
-                            <a target="#" href="https://docs.google.com/document/d/1aAxbhwMBUjNjKMl7xnzvviPNLNfgTMmNRDkYz7C7clA/edit?tab=t.0">Misari didi's ultimate question bank</a>
-                            <a target="#" href="https://docs.google.com/document/d/1-HF6j_HXVwdDn-DtKUfEVaa8mGirqAx8ROcEEbkjxtI/edit?usp=sharing">Daily revision tests</a>
-                        </div>
-                    </li>
-                    <li>
                         <input type="radio" name="accordion" id="first"></input>
-                        <label for="first"><h2 className="subjecth2">Chapter Tests</h2></label>
+                        <label for="first"><h2 className="subjecth2">Algebra Previous Years' Questions</h2></label>
                         <div className="lists accordioncontent">
-                            <a target="#" href="https://drive.google.com/file/d/1OEPYyTa145yJbeao5GlOqYuOp8XbjG8b/view?usp=sharing">Circles Test - Misari didi</a>
-                            <a target="#" href="https://docs.google.com/document/d/1Io-ISBzv4EBWI2IKJ6Q2X5ggkL8ncWL7SHi78Z6Ovlo/edit?usp=sharing">Linear Equations - Misari didi</a>
-                            <a target="#" href="https://drive.google.com/file/d/1dNHUcCZlqrdzH3DDbAW9P_u_hw17c3JO/view?usp=sharing">Simultaneous Linear Equations Test</a>
-                            <a target="#" href="https://drive.google.com/file/d/1aCJ2Kg-9tJVFQ5zLxSs-nCyXgxmoEObl/view?usp=sharing">Coordinate Geometry - Misari didi</a>
-                            <a target="#" href="https://drive.google.com/file/d/1YDOAk5ZbHnmIJuNPbgFZBn_jqFNXIrIA/view?usp=sharing">Coordinate Geometry - Santoshi didi</a>
-                            <a target="#" href="https://drive.google.com/file/d/1LG1H7BJjFJy2d9F_FK9bq0D5ONVlp_Rz/view?usp=sharing">Coordinate Geometry Mini Test</a>
-                            <a target="#" href="https://docs.google.com/document/d/104iiaAwerpE27KyCVkrhgGlKcEchqSAKqspjiVIOGx0/edit?usp=sharing">Coordinate Geometry Test</a>
+                            <a target="#" href="https://docs.google.com/document/d/14vLnIx-TQNxQhL7sjkANJGVX3-m-h3Wrc2RtzbosYas/edit?tab=t.91jq5xx29jzg">Arithmetic Progressions</a>
+                            <a target="#" href="https://docs.google.com/document/d/13kaE6fCfqX822gPxqzgHYWA7cn-Ddc7cZI_Ho1NU4Ck/edit?tab=t.91jq5xx29jzg">Linear Equations</a>
+                            <a target="#" href="https://docs.google.com/document/d/1L4pIFaWE1QFPK9cLiqhGyiDsdrTtCi30h01xS0U5pKo/edit?tab=t.91jq5xx29jzg">Quadratic Equations</a>
+                            <a target="#" href="https://docs.google.com/document/d/1lsy2DruLCvlDzkW-gWLLpK_zok8jKksf_jjANl88hZQ/edit?tab=t.91jq5xx29jzg">Probability</a>
+                            <a target="#" href="https://docs.google.com/document/d/1n-Yub9j8otv8GAOympzeyeKc05dBrDLZVubU_bqyFJY/edit?tab=t.91jq5xx29jzg">Statistics</a>
+                            <a target="#" href="https://docs.google.com/document/d/1pwqMecf72d2hQ2iRpMfGgE_P2I58jwIEFb-nKQxYYqU/edit?tab=t.91jq5xx29jzg">Financial Planning</a>
                         </div>
                     </li>
                     <li>
                         <input type="radio" name="accordion" id="second"></input>
-                        <label for="second"><h2 className="subjecth2">Practice Problems</h2></label>
+                        <label for="second"><h2 className="subjecth2">Geometry Previous Years' Questions</h2></label>
                         <div className="lists accordioncontent">
-                            <a target="#" href="https://docs.google.com/document/d/1K7Yx9tnqdB3m0XzlOMB4Bx2ZoWzwYCN4VKk_QVuvEeg/edit?usp=sharing">Trigonometry</a>
-                            <a target="#" href="https://drive.google.com/file/d/1pUEGz4ebrpkvDzc8xtDbvKj6DPu_mWSZ/view?usp=sharing">Mensuration - Santoshi Didi</a>
-                            <a target="#" href="https://docs.google.com/document/d/1QZGlCiBOThTmcAEsDI0tQyQYGfShmzn-c2NgDoXoOH4/edit?usp=sharing">Coordinate Geometry</a>
-                            <a target="#" href="https://docs.google.com/document/d/132hAS7ZLpRtj0vT0--1-d4A-KcTVSunKxyDcTCAvnXE/edit?usp=sharing">Simultaneous Linear Equations</a>
-                            <a target="#" href="https://drive.google.com/file/d/1nqFRBjXo5yvfDm_ojT_8Za_I1A-TSV55/view?usp=sharing">Linear Equations - Santoshi Didi</a>
+                            <a target="#" href="https://drive.google.com/file/d/1bFN2q97a9JeQEyEGH0G3ftERlE6eKg9c/view?usp=drive_link">Similarity</a>
+                            <a target="#" href="https://docs.google.com/document/d/1KaEIsZHdhdHXr03NIEXCg1Gbh3zsnOp-2WgIrVaZNyc/edit?tab=t.91jq5xx29jzg">Pythagoras Theorem</a>
+                            <a target="#" href="https://docs.google.com/document/d/1N7LL7eViRJuZlpuqqTZNonSuB5AwRoXQySIYXrdGIw0/edit?tab=t.91jq5xx29jzg">Coordinate Geometry</a>
+                            <a target="#" href="https://docs.google.com/document/d/1tKYgYNBoXwvhsijCGYUaQ-M-4lA8uise7t89jJSOz8A/edit?tab=t.91jq5xx29jzg">Mensuration</a>
+                            <a target="#" href="https://docs.google.com/document/d/114DGg1RRbJhYPGsVR2c3NSKSjYuAWsy6Wg-quGm06Xk/edit?tab=t.91jq5xx29jzg">Trigonometry</a>
+                            <a target="#" href="https://docs.google.com/document/d/1sf_MFIb0f9YkZA0-ae_EijHIyHK9nHPPPYUtKR9Mf_0/edit?tab=t.91jq5xx29jzg#heading=h.u7mu04g96hnz">Circles</a>
+                            <a target="#" href="https://docs.google.com/document/d/1N4IhQXFb4MhwDWf4nL4O7ZKngBmA8-uxypMIwCRui-U/edit?tab=t.91jq5xx29jzg">Construction</a>
                         </div>
                     </li>
                 </ul>

@@ -36,6 +36,7 @@ export default function Page() {
                             <a target="#" href="https://docs.google.com/document/d/1WWfQFu8m1ETof_i_E6YlL-pgiOHrtgK1ss58qxlfKxI/edit?tab=t.91jq5xx29jzg">Life Processes Part 2</a>
                             <a target="#" href="https://docs.google.com/document/d/1oErYxNx3yjx4CM6RXEeV011RtB44pvZQbroNadeR4D8/edit?tab=t.7pji34nfietr">Towards Green Energy</a>
                             <a target="#" href="https://docs.google.com/document/d/1musP8M0Mg3DLP5Kz6BUNvhjTUYYvEz435y4MD_K0Qbo/edit?tab=t.7pji34nfietr">Cell Biology</a>
+                            <a target="#" href="https://docs.google.com/document/d/1FTcT2CPMJHJJQdwOwgmvFk_PyQpjxLWELAt0eujETHg/edit?usp=sharing">Social Health</a>
                         </div>
                     </li>
                 </ul>

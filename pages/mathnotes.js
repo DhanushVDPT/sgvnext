@@ -18,6 +18,7 @@ export default function Page() {
                             <a target="#" href="https://docs.google.com/document/d/1L4pIFaWE1QFPK9cLiqhGyiDsdrTtCi30h01xS0U5pKo/edit?tab=t.0">Quadratic Equations</a>
                             <a target="#" href="https://docs.google.com/document/d/1KaEIsZHdhdHXr03NIEXCg1Gbh3zsnOp-2WgIrVaZNyc/edit?usp=sharing">Pythagoras Theorem</a>
                             <a target="#" href="https://docs.google.com/document/d/1N7LL7eViRJuZlpuqqTZNonSuB5AwRoXQySIYXrdGIw0/edit?usp=sharing">Coordinate Geometry</a>
+                            <a target="#" href="https://docs.google.com/document/d/1pwqMecf72d2hQ2iRpMfGgE_P2I58jwIEFb-nKQxYYqU/edit?tab=t.0">Financial Planning</a>
                         </div>
                     </li>
                 </ul>

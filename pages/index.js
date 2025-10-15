@@ -43,6 +43,11 @@ export default function Page() {
                             <h2>Mission 35</h2>
                         </div>
                     </Link>
+                    <Link href="https://docs.google.com/document/d/1jsMmbgw3weDcbsF_GsZYiZ-J4P5sS0Y1P7fR3xNWkBk/edit?tab=t.0">
+                        <div className="card">
+                            <h2>Diwali Homework</h2>
+                        </div>
+                    </Link>
             </div>
         </>
     )

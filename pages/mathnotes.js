@@ -19,6 +19,11 @@ export default function Page() {
                             <a target="#" href="https://docs.google.com/document/d/1KaEIsZHdhdHXr03NIEXCg1Gbh3zsnOp-2WgIrVaZNyc/edit?usp=sharing">Pythagoras Theorem</a>
                             <a target="#" href="https://docs.google.com/document/d/1N7LL7eViRJuZlpuqqTZNonSuB5AwRoXQySIYXrdGIw0/edit?usp=sharing">Coordinate Geometry</a>
                             <a target="#" href="https://docs.google.com/document/d/1pwqMecf72d2hQ2iRpMfGgE_P2I58jwIEFb-nKQxYYqU/edit?tab=t.0">Financial Planning</a>
+                            <a target="#" href="https://docs.google.com/document/d/1n-Yub9j8otv8GAOympzeyeKc05dBrDLZVubU_bqyFJY/edit?usp=sharing">Statistics</a>
+                            <a target="#" href="https://docs.google.com/document/d/1lsy2DruLCvlDzkW-gWLLpK_zok8jKksf_jjANl88hZQ/edit?usp=sharing">Probability</a>
+                            <a target="#" href="https://docs.google.com/document/d/1tKYgYNBoXwvhsijCGYUaQ-M-4lA8uise7t89jJSOz8A/edit?tab=t.0">Mensuration</a>
+                            <a target="#" href="https://docs.google.com/document/d/1sf_MFIb0f9YkZA0-ae_EijHIyHK9nHPPPYUtKR9Mf_0/edit?tab=t.0">Circles</a>
+                            <a target="#" href="https://docs.google.com/document/d/114DGg1RRbJhYPGsVR2c3NSKSjYuAWsy6Wg-quGm06Xk/edit?usp=sharing">Trigonometry</a>
                         </div>
                     </li>
                 </ul>

@@ -34,6 +34,14 @@ export default function Page() {
                             <a target="#" href="https://docs.google.com/document/d/1N4IhQXFb4MhwDWf4nL4O7ZKngBmA8-uxypMIwCRui-U/edit?tab=t.91jq5xx29jzg">Construction</a>
                         </div>
                     </li>
+                    <li>
+                        <input type="radio" name="accordion" id="third"></input>
+                        <label for="third"><h2 className="subjecth2">Q4 and Q5</h2></label>
+                        <div className="lists accordioncontent">
+                            <a target="#" href="https://docs.google.com/document/d/1CoyXcB1zbjTFXgsAlJaWH3flcyj5ixhtkvYUj0MVprU/edit?tab=t.0">Algebra</a>
+                            <a target="#" href="https://docs.google.com/document/d/1CoyXcB1zbjTFXgsAlJaWH3flcyj5ixhtkvYUj0MVprU/edit?tab=t.hblusckskeg6">Geometry</a>
+                        </div>
+                    </li>
                 </ul>
             </div>
         </>

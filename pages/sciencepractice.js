@@ -10,6 +10,14 @@ export default function Page() {
                 <h1>Science | Practice</h1>
                 <ul className="accordion">
                     <li>
+                        <input type="radio" name="accordion" id="fourth"></input>
+                        <label for="fourth"><h2 className="subjecth2">Focus Areas</h2></label>
+                        <div className="lists accordioncontent">
+                            <a target="#" href="https://docs.google.com/document/d/1XrjgX1lF-AotlyRreFworG00rqh5tVG9hQDbf0NlcBs/edit?usp=sharing">Science I</a>
+                            <a target="#" href="https://docs.google.com/document/d/1CMhlXt725BKK3LymAoTakpHgoRWPaXhQodtz6QCNw2M/edit?usp=sharing">Science II</a>
+                        </div>
+                    </li>
+                    <li>
                         <input type="radio" name="accordion" id="third"></input>
                         <label for="third"><h2 className="subjecth2">Science I Board Exam Questions</h2></label>
                         <div className="lists accordioncontent">

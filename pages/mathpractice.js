@@ -11,35 +11,42 @@ export default function Page() {
                 <ul className="accordion">
                     <li>
                         <input type="radio" name="accordion" id="first"></input>
-                        <label for="first"><h2 className="subjecth2">Algebra Previous Years' Questions</h2></label>
+                        <label for="first"><h2 className="subjecth2">Algebra Chapter-wise Previous Years' Questions</h2></label>
                         <div className="lists accordioncontent">
-                            <a target="#" href="https://docs.google.com/document/d/14vLnIx-TQNxQhL7sjkANJGVX3-m-h3Wrc2RtzbosYas/edit?tab=t.91jq5xx29jzg">Arithmetic Progressions</a>
-                            <a target="#" href="https://docs.google.com/document/d/13kaE6fCfqX822gPxqzgHYWA7cn-Ddc7cZI_Ho1NU4Ck/edit?tab=t.91jq5xx29jzg">Linear Equations</a>
-                            <a target="#" href="https://docs.google.com/document/d/1L4pIFaWE1QFPK9cLiqhGyiDsdrTtCi30h01xS0U5pKo/edit?tab=t.91jq5xx29jzg">Quadratic Equations</a>
-                            <a target="#" href="https://docs.google.com/document/d/1lsy2DruLCvlDzkW-gWLLpK_zok8jKksf_jjANl88hZQ/edit?tab=t.91jq5xx29jzg">Probability</a>
-                            <a target="#" href="https://docs.google.com/document/d/1n-Yub9j8otv8GAOympzeyeKc05dBrDLZVubU_bqyFJY/edit?tab=t.91jq5xx29jzg">Statistics</a>
-                            <a target="#" href="https://docs.google.com/document/d/1pwqMecf72d2hQ2iRpMfGgE_P2I58jwIEFb-nKQxYYqU/edit?tab=t.91jq5xx29jzg">Financial Planning</a>
+                            <a target="_blank" href="https://docs.google.com/document/d/1QOHmrr76j8UcyA-WUcPvvFO2K3kjjW2l_N52pVMSZqw/edit?tab=t.91jq5xx29jzg">Arithmetic Progressions</a>
+                            <a target="_blank" href="https://docs.google.com/document/d/1ZRlsasGOZsA9Et_3L88Ga8-2f-B2mlwXWcE7K6ymlqU/edit?tab=t.91jq5xx29jzg">Linear Equations</a>
+                            <a target="_blank" href="https://docs.google.com/document/d/1SWlbMqubVfbI9WVkEBy5kwb2KJAhoPgfKLBhBIRBaac/edit?tab=t.91jq5xx29jzg">Quadratic Equations</a>
+                            <a target="_blank" href="https://docs.google.com/document/d/1dnRDhJKu9h7I-K2PhmLBwl8Keg7cAxDuCNLO6VoMAEU/edit?tab=t.91jq5xx29jzg">Probability</a>
+                            <a target="_blank" href="https://docs.google.com/document/d/1SK_iwJZ_XsjrRaAHPvxcvKAkUiuzgx08tNRIAXI-CLU/edit?tab=t.91jq5xx29jzg">Statistics</a>
+                            <a target="_blank" href="https://docs.google.com/document/d/1ZBifK35_9Lw40z_79VZajktEt8BuLTm2lIUe39cmGY8/edit?tab=t.91jq5xx29jzg">Financial Planning</a>
                         </div>
                     </li>
                     <li>
                         <input type="radio" name="accordion" id="second"></input>
-                        <label for="second"><h2 className="subjecth2">Geometry Previous Years' Questions</h2></label>
+                        <label for="second"><h2 className="subjecth2">Geometry Chapter-wise Previous Years' Questions</h2></label>
                         <div className="lists accordioncontent">
-                            <a target="#" href="https://drive.google.com/file/d/1bFN2q97a9JeQEyEGH0G3ftERlE6eKg9c/view?usp=drive_link">Similarity</a>
-                            <a target="#" href="https://docs.google.com/document/d/1KaEIsZHdhdHXr03NIEXCg1Gbh3zsnOp-2WgIrVaZNyc/edit?tab=t.91jq5xx29jzg">Pythagoras Theorem</a>
-                            <a target="#" href="https://docs.google.com/document/d/1N7LL7eViRJuZlpuqqTZNonSuB5AwRoXQySIYXrdGIw0/edit?tab=t.91jq5xx29jzg">Coordinate Geometry</a>
-                            <a target="#" href="https://docs.google.com/document/d/1tKYgYNBoXwvhsijCGYUaQ-M-4lA8uise7t89jJSOz8A/edit?tab=t.91jq5xx29jzg">Mensuration</a>
-                            <a target="#" href="https://docs.google.com/document/d/114DGg1RRbJhYPGsVR2c3NSKSjYuAWsy6Wg-quGm06Xk/edit?tab=t.91jq5xx29jzg">Trigonometry</a>
-                            <a target="#" href="https://docs.google.com/document/d/1sf_MFIb0f9YkZA0-ae_EijHIyHK9nHPPPYUtKR9Mf_0/edit?tab=t.91jq5xx29jzg#heading=h.u7mu04g96hnz">Circles</a>
-                            <a target="#" href="https://docs.google.com/document/d/1N4IhQXFb4MhwDWf4nL4O7ZKngBmA8-uxypMIwCRui-U/edit?tab=t.91jq5xx29jzg">Construction</a>
+                            <a target="_blank" href="https://docs.google.com/document/d/1v-5pgYV6f5ayjfFsEUjFzfxT9Xsl3Z5ytfjjoS9fGvE/edit?tab=t.91jq5xx29jzg">Similarity</a>
+                            <a target="_blank" href="https://docs.google.com/document/d/1Bx9l1922ZvC-BfwYfTMHgcZB2ZVn2Z_Nvfj-qOM24N0/edit?tab=t.91jq5xx29jzg">Pythagoras Theorem</a>
+                            <a target="_blank" href="https://docs.google.com/document/d/1hjEhGEk9jyU4m5DJGDvf2w2Yk-HozNr1q0YNNVJ4hJg/edit?tab=t.91jq5xx29jzg">Coordinate Geometry</a>
+                            <a target="_blank" href="https://docs.google.com/document/d/1TQIEV_84TsNr5vlV6GGiz4XnB2CJVB9vEcE3YrkkJqM/edit?tab=t.91jq5xx29jzg">Mensuration</a>
+                            <a target="_blank" href="https://docs.google.com/document/d/1n5ckrOZ6W_N9hcUfXE5nSSKyIQosfDE--6oLe6_PtpU/edit?tab=t.91jq5xx29jzg">Trigonometry</a>
+                            <a target="_blank" href="https://docs.google.com/document/d/1H6RsBb90HQ3feKTSLgfRp5IqdVtEIS6TkzQnEHq5jGQ/edit?tab=t.91jq5xx29jzg">Circles</a>
+                            <a target="_blank" href="https://docs.google.com/document/d/1i8FB7CI9kvY-lxt4Cs-M7iOAU_9C6kd1cYY3qVH9Iwk/edit?tab=t.91jq5xx29jzg">Construction</a>
                         </div>
                     </li>
                     <li>
                         <input type="radio" name="accordion" id="third"></input>
-                        <label for="third"><h2 className="subjecth2">Q4 and Q5</h2></label>
+                        <label for="third"><h2 className="subjecth2">Practice Questions for sections Q4 and Q5</h2></label>
                         <div className="lists accordioncontent">
-                            <a target="#" href="https://docs.google.com/document/d/1CoyXcB1zbjTFXgsAlJaWH3flcyj5ixhtkvYUj0MVprU/edit?tab=t.0">Algebra</a>
-                            <a target="#" href="https://docs.google.com/document/d/1CoyXcB1zbjTFXgsAlJaWH3flcyj5ixhtkvYUj0MVprU/edit?tab=t.hblusckskeg6">Geometry</a>
+                            <a target="_blank" href="https://docs.google.com/document/d/1VITOyM2teTJ9a3wcXxhCER4HmUVYctr_GbFQUBBVC7E/edit?tab=t.0">Algebra</a>
+                            <a target="_blank" href="https://docs.google.com/document/d/1VITOyM2teTJ9a3wcXxhCER4HmUVYctr_GbFQUBBVC7E/edit?tab=t.hblusckskeg6">Geometry</a>
+                        </div>
+                    </li>
+                    <li>
+                        <input type="radio" name="accordion" id="fourth"></input>
+                        <label for="fourth"><h2 className="subjecth2">Worksheets</h2></label>
+                        <div className="lists accordioncontent">
+                            <a target="_blank" href="https://drive.google.com/file/d/1x2syVRg5Q5coM_NteHoirNku9vX8vyU-/view?usp=drive_link">Arithmetic Progressions</a>
                         </div>
                     </li>
                 </ul>

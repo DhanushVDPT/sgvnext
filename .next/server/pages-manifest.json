@@ -2,7 +2,8 @@
   "/_app": "pages/_app.js",
   "/_error": "pages/_error.js",
   "/_document": "pages/_document.js",
-  "/science": "pages/science.js",
+  "/mathpractice": "pages/mathpractice.js",
   "/": "pages/index.js",
-  "/sciencepractice": "pages/sciencepractice.js"
+  "/previousyear": "pages/previousyear.js",
+  "/geoprev": "pages/geoprev.js"
 }

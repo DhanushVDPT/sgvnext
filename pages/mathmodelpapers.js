@@ -11,11 +11,18 @@ export default function Page() {
                 <ul className="accordion">
                     <li>
                         <input type="radio" name="accordion" id="first"></input>
-                        <label for="first"><h2 className="subjecth2">Unit Test II</h2></label>
+                        <label for="first"><h2 className="subjecth2">Algebra</h2></label>
                         <div className="lists accordioncontent">
-                            <a target="#" href="https://drive.google.com/file/d/18-HE2sjsmDTz5NtxuHA7Xo2-QpzAQLgG/view?usp=sharing">Geometry I</a>
-                            <a target="#" href="https://drive.google.com/file/d/1jSNLUcNJpYoV-g8mVoJIJSpcDkxhyxKx/view?usp=sharing">Geometry II</a>
-                            <a target="#" href="https://drive.google.com/file/d/1kQXHDIh3BiisB8-LJCpI6AimVnr4OiJf/view?usp=drivesdk">Algebra</a>
+                            <a target="_blank" href="https://drive.google.com/file/d/1XWWF82dSg7yOspnLItMNsdA_SgyaDC_f/view?usp=sharing">Prelim I</a>
+                            <a target="_blank" href="https://drive.google.com/file/d/1sB4y4RqdgO9bsIf0W9PV8_R86HBI8KB9/view?usp=sharing">Prelim II</a>
+                        </div>
+                    </li>
+                    <li>
+                        <input type="radio" name="accordion" id="second"></input>
+                        <label for="second"><h2 className="subjecth2">Geometry</h2></label>
+                        <div className="lists accordioncontent">
+                            <a target="_blank" href="https://drive.google.com/file/d/1FdFdNvHYyZiFR9If6hZ4mzYU5jMfJMmx/view?usp=drive_link">Prelim I</a>
+                            <a target="_blank" href="https://drive.google.com/file/d/1gMmaoyNeu-x-pKh-0x5AJseXcHcRU4us/view?usp=sharing">Prelim II</a>
                         </div>
                     </li>
                 </ul>

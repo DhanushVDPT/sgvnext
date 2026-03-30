@@ -25,20 +25,30 @@ self.__BUILD_MANIFEST = {
       "static/chunks/main.js",
       "static/chunks/pages/_error.js"
     ],
-    "/geoprev": [
+    "/hindi": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
-      "static/chunks/pages/geoprev.js"
+      "static/chunks/pages/hindi.js"
     ],
-    "/mathpractice": [
+    "/marathi": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
-      "static/chunks/pages/mathpractice.js"
+      "static/chunks/pages/marathi.js"
+    ],
+    "/math": [
+      "static/chunks/webpack.js",
+      "static/chunks/main.js",
+      "static/chunks/pages/math.js"
     ],
     "/previousyear": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
       "static/chunks/pages/previousyear.js"
+    ],
+    "/science": [
+      "static/chunks/webpack.js",
+      "static/chunks/main.js",
+      "static/chunks/pages/science.js"
     ]
   },
   "ampFirstPages": []

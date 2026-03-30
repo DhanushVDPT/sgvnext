@@ -62,7 +62,7 @@ const Navbar = () => {
                         <Link href="/hindi">Hindi</Link>
                     </div>
                     <div className="navoptions">
-                        <Link target="#" href="https://docs.google.com/document/d/1SOwEs_peG82KuqmWuSOxp6jvTKgmH3W_E9ehjhwMENM/edit?usp=sharing">Homework</Link>
+                        <Link target="#" href="https://docs.google.com/document/d/116RQ1XJ2eXlIqNz1kjUq-4_SCjlvMq8zO0qgPWzAam8/edit?usp=sharing">Homework</Link>
                     </div>
                 </div>
             </div>

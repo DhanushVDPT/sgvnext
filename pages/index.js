@@ -24,7 +24,7 @@ export default function Page() {
                             <h2>Mission 35</h2>
                         </div>
                     </Link>
-                    <Link target="_blank" href="https://docs.google.com/document/d/1jsMmbgw3weDcbsF_GsZYiZ-J4P5sS0Y1P7fR3xNWkBk/edit?tab=t.0">
+                    <Link target="_blank" href="https://docs.google.com/document/d/1LhsiN-GPnQ5SMhV3CGNZd_EYZ6MTKtNJ4erepQwSXl0/edit?usp=sharing">
                         <div className="card">
                             <h2>Diwali Homework</h2>
                         </div>

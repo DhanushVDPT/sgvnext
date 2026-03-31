@@ -9,15 +9,15 @@ export default function Page() {
             <div className="subject">
                 <h1>Mission 35</h1>
                 <div className="lists">
-                        <a target="#" href="https://drive.google.com/file/d/1tTNuZIaTX2oD3ho3c5kdx761am4RS7n9/view?usp=sharing">English</a>
-                        <a target="#" href="https://drive.google.com/file/d/161yMGmfUxqMErT9KD0rUQ_8aJbWCJvPn/view?usp=sharing">Hindi</a>
-                        <a target="#" href="https://drive.google.com/file/d/1FdpOBqQ9Q3vZ2xInEPDG2WHIw3Y6b-dA/view?usp=sharing">Marathi</a>
-                        <a target="#" href="https://drive.google.com/file/d/1bm4b2kXII9GlgclaA1TswEFjunZT3PLB/view?usp=sharing">Algebra</a>
-                        <a target="#" href="https://drive.google.com/file/d/1BCJxiSpculDjM64n6nKApAIpexlMbRnR/view?usp=sharing">Geometry</a>
-                        <a target="#" href="https://drive.google.com/file/d/1wuDJPVuKcZvovvA2Iys7KzBjLH2y6Bxq/view?usp=sharing">Science I</a>
-                        <a target="#" href="https://drive.google.com/file/d/1rQWhkLLsMDC3rd4yYdAri1Jq7uf_UfO_/view?usp=sharing">Science II</a>
-                        <a target="#" href="https://drive.google.com/file/d/1tqOMyYKe-WUJwGlXs35Mhz_0NCHUss5i/view?usp=sharing">History / Political Science</a>
-                        <a target="#" href="https://drive.google.com/file/d/1BZBmmPNvOkcAtVM7P-cVgf4ZPevSOjol/view?usp=sharing">Geography</a>
+                        <a target="_blank" href="https://drive.google.com/file/d/1BBlr3CLMA1Wt-g1y0Bahae5n3rgkAV8V/view?usp=drive_link">English</a>
+                        <a target="_blank" href="https://drive.google.com/file/d/1ZM6uiNTKe3QDenxhAK9l_KufrBxrbxN9/view?usp=drive_link">Hindi</a>
+                        <a target="_blank" href="https://drive.google.com/file/d/1qZWB9sgCjPmenPqIF5EsVo5wh08oQ8CT/view?usp=drive_link">Marathi</a>
+                        <a target="_blank" href="https://drive.google.com/file/d/1VPehF2nl8JDGnD8MJwRi_ZJAX4H4IYvH/view?usp=drive_link">Algebra</a>
+                        <a target="_blank" href="https://drive.google.com/file/d/1xCJTSisbCZPFvU2b0uWORmd-Q8orWbf5/view?usp=drive_link">Geometry</a>
+                        <a target="_blank" href="https://drive.google.com/file/d/1DQPILw8diMeYHTz9hwCBwUzcPn5tX7on/view?usp=drive_link">Science I</a>
+                        <a target="_blank" href="https://drive.google.com/file/d/1pym_MrVVAiI2wUWAaxfbiF2lk-n3T_bF/view?usp=drive_link">Science II</a>
+                        <a target="_blank" href="https://drive.google.com/file/d/14J2RQhXGEsTgrRofCurO8mfp6CnY4-bT/view?usp=drive_link">History / Political Science</a>
+                        <a target="_blank" href="https://drive.google.com/file/d/1WUmitertPNlTQkRfiaA4i6iWjZ8fVS9r/view?usp=drive_link">Geography</a>
                 </div>
             </div>
         </>

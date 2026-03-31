@@ -9,12 +9,12 @@ const Navbar = () => {
                 <h2 className="mobiletitle">SGV 10th Grade</h2>
                     <input type="checkbox" id="sidebar-active"></input>
                     <label for="sidebar-active" className="open-sidebar">
-                        <Image className="hamburger" src="/icons8-xbox-menu-100.png" width={40} height={40}/>
+                        <Image alt="menu" className="hamburger" src="/icons8-xbox-menu-100.png" width={40} height={40}/>
                     </label>
                     <label id="overlay" for="sidebar-active"></label>
                 <nav className="nav-bar">
                     <label for="sidebar-active" className="close-sidebar">
-                        <Image className="hamburger" src="/close-icon.svg" width={40} height={40}/>
+                        <Image alt="close" className="hamburger" src="/close-icon.svg" width={40} height={40}/>
                     </label>
                     <ul>
                         <li>
@@ -35,7 +35,7 @@ const Navbar = () => {
                         <Link href="/hindi">Hindi</Link>
                         </li>
                         <li>
-                        <Link target="#" href="https://docs.google.com/document/d/1SOwEs_peG82KuqmWuSOxp6jvTKgmH3W_E9ehjhwMENM/edit?usp=sharing">Homework</Link>
+                        <Link target="_blank" href="https://docs.google.com/document/d/116RQ1XJ2eXlIqNz1kjUq-4_SCjlvMq8zO0qgPWzAam8/edit?usp=sharing">Homework</Link>
                         </li>
                     </ul>
                 </nav>
@@ -62,7 +62,7 @@ const Navbar = () => {
                         <Link href="/hindi">Hindi</Link>
                     </div>
                     <div className="navoptions">
-                        <Link target="#" href="https://docs.google.com/document/d/116RQ1XJ2eXlIqNz1kjUq-4_SCjlvMq8zO0qgPWzAam8/edit?usp=sharing">Homework</Link>
+                        <Link target="_blank" href="https://docs.google.com/document/d/116RQ1XJ2eXlIqNz1kjUq-4_SCjlvMq8zO0qgPWzAam8/edit?usp=sharing">Homework</Link>
                     </div>
                 </div>
             </div>

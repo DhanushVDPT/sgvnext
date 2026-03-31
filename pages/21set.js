@@ -9,29 +9,29 @@ export default function Page() {
             <div className="subject">
                 <h1>21 Sets 2026</h1>
                 <div className="lists">
-                        <a target="#" href="https://drive.google.com/file/d/1zGqgZKw0Lz04-j3000AeyDigsY628RGv/view?usp=sharing">English</a>
-                        <a target="#" href="https://drive.google.com/file/d/1bX74s9oIF9HIO_oAeS-jWNjdU8RfZiDr/view?usp=sharing">Hindi</a>
-                        <a target="#" href="">Marathi</a>
-                        <a target="#" href="https://drive.google.com/file/d/1wh9v8EgRjkNkluvIVUisBEQvY2hejhpN/view?usp=sharing">Algebra</a>
-                        <a target="#" href="https://drive.google.com/file/d/1KrqzezRK9UcW0B2bP9oyGYfQedfeg7rr/view?usp=sharing">Geometry</a>
-                        <a target="#" href="https://drive.google.com/file/d/1B3I0APAgSV_GlGx4WFfd8q25-tG0zHn-/view?usp=sharing">Science I</a>
-                        <a target="#" href="https://drive.google.com/file/d/1R6NTTvACrDwnHnr6qlDdMp9Z32ZSe38G/view?usp=sharing">Science II</a>
-                        <a target="#" href="">History / Political Science</a>
-                        <a target="#" href="https://drive.google.com/file/d/15AJn_EEAvz1BQRgwhoQhZhRDcTsBC9iB/view?usp=sharing">Geography</a>
+                        <a target="_blank" href="https://drive.google.com/file/d/1fGWGp_yz8xXxBBAN2aH1Q1LYv3pIkChC/view?usp=drive_link">English</a>
+                        <a target="_blank" href="https://drive.google.com/file/d/1i1vsXr5XTijbc80L0vlHl8fBvPJNHmpT/view?usp=drive_link">Hindi</a>
+                        <a target="_blank" href="https://drive.google.com/file/d/1JIVXmVGw0cWA8hFwCDzPJj7IYwE4g40a/view?usp=drive_link">Marathi</a>
+                        <a target="_blank" href="https://drive.google.com/file/d/1P7lOoU3sNS-7b27cyL_coV0rVxqi3oZU/view?usp=drive_link">Algebra</a>
+                        <a target="_blank" href="https://drive.google.com/file/d/1YnIqrCe3tw2mm3Uxz5xXpowjLAvuaAK1/view?usp=drive_link">Geometry</a>
+                        <a target="_blank" href="https://drive.google.com/file/d/1kePnDRNHYqPrvwcbefClleBosOgnuLNc/view?usp=drive_link">Science I</a>
+                        <a target="_blank" href="https://drive.google.com/file/d/1s1awd5V3CODralMANxzq05h7LxoxBNGF/view?usp=drive_link">Science II</a>
+                        <a target="_blank" href="https://drive.google.com/file/d/1nYyQRNrbC_1IgUOJAXLPjfTn-39kd-E2/view?usp=drive_link">History / Political Science</a>
+                        <a target="_blank" href="https://drive.google.com/file/d/1fqdF-OT7i9139VioYcBIjvY9PTWrfHnD/view?usp=drive_link">Geography</a>
                 </div>
             </div>
             <div className="subject">
                 <h1>21 Sets 2025</h1>
                 <div className="lists">
-                        <a target="#" href="https://drive.google.com/file/d/1cIOgtpN2h52CdrR0xX2Uuqltej51lJW0/view?usp=sharing">English</a>
-                        <a target="#" href="https://drive.google.com/file/d/1A_3wYUe0qU2Ai2qqQOXyG5DEdS6V-TRR/view?usp=sharing">Hindi</a>
-                        <a target="#" href="https://drive.google.com/file/d/1nNcdYFisrloz7kU0Wwn0psVXdPzaCX30/view?usp=sharing">Marathi</a>
-                        <a target="#" href="https://drive.google.com/file/d/1Agg-iqrRJbZj-Tc-l6_ROgpUpFYejgmd/view?usp=sharing">Algebra</a>
-                        <a target="#" href="https://drive.google.com/file/d/1xIvIrb05zDkk7bMhkynXYUG_UhvH79IN/view?usp=sharing">Geometry</a>
-                        <a target="#" href="https://drive.google.com/file/d/1dJfKEmr3TWb-Qx-e6o8ste-FHFKMK_4k/view?usp=sharing">Science I</a>
-                        <a target="#" href="https://drive.google.com/file/d/1YQ4KICF07u8VpPkyJnZ8cULXX4vM-fYq/view?usp=sharing">Science II</a>
-                        <a target="#" href="https://drive.google.com/file/d/1o9oVwI26tytq07E_hvZRUKJc1ON_9YWT/view?usp=sharing">History / Political Science</a>
-                        <a target="#" href="https://drive.google.com/file/d/10HU_XT0P3-QrJd1U-xujoGBLhtsOr0da/view?usp=sharing">Geography</a>
+                        <a target="_blank" href="https://drive.google.com/file/d/1OhE39wpC0IvYlPEIYi2AVn-fQ0s9W4b2/view?usp=drive_link">English</a>
+                        <a target="_blank" href="https://drive.google.com/file/d/1Y8tIulZDH0UzDf6MVtl_UHBKvrdUu8qW/view?usp=drive_link">Hindi</a>
+                        <a target="_blank" href="https://drive.google.com/file/d/1gWO750EN--kTAR3N4Qn01ffo5JBGbY1y/view?usp=drive_link">Marathi</a>
+                        <a target="_blank" href="https://drive.google.com/file/d/1MZbBd_cHusVvGgCChVF7QOFUb9j5sU5B/view?usp=drive_link">Algebra</a>
+                        <a target="_blank" href="https://drive.google.com/file/d/1sOhjqtrO3-oQhgjFwkZL5dAk70yQh_js/view?usp=drive_link">Geometry</a>
+                        <a target="_blank" href="https://drive.google.com/file/d/1TlfrtIU7jGsLKl9byLBLfbEiQmQocTks/view?usp=drive_link">Science I</a>
+                        <a target="_blank" href="https://drive.google.com/file/d/1U7fIASL_vpO-PSqRSfChYZdSArzbGdHC/view?usp=drive_link">Science II</a>
+                        <a target="_blank" href="https://drive.google.com/file/d/1GxsTUDHM6798QRWCD4VbRED_5Ai6MTqi/view?usp=drive_link">History / Political Science</a>
+                        <a target="_blank" href="https://drive.google.com/file/d/1jeb33zt1crn_7G3gqA7ZZHf-GiQAM8cO/view?usp=drive_link">Geography</a>
                 </div>
             </div>
         </>

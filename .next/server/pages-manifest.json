@@ -2,10 +2,7 @@
   "/_app": "pages/_app.js",
   "/_error": "pages/_error.js",
   "/_document": "pages/_document.js",
-  "/": "pages/index.js",
-  "/previousyear": "pages/previousyear.js",
-  "/hindi": "pages/hindi.js",
-  "/science": "pages/science.js",
-  "/marathi": "pages/marathi.js",
-  "/math": "pages/math.js"
+  "/21set": "pages/21set.js",
+  "/mission35": "pages/mission35.js",
+  "/": "pages/index.js"
 }

@@ -10,41 +10,49 @@ export default function Page() {
                 <h1>Science | Practice</h1>
                 <ul className="accordion">
                     <li>
-                        <input type="radio" name="accordion" id="fourth"></input>
-                        <label for="fourth"><h2 className="subjecth2">Focus Areas</h2></label>
+                        <input type="radio" name="accordion" id="first"></input>
+                        <label for="first"><h2 className="subjecth2">Focus Areas</h2></label>
                         <div className="lists accordioncontent">
-                            <a target="#" href="https://docs.google.com/document/d/1XrjgX1lF-AotlyRreFworG00rqh5tVG9hQDbf0NlcBs/edit?usp=sharing">Science I</a>
-                            <a target="#" href="https://docs.google.com/document/d/1CMhlXt725BKK3LymAoTakpHgoRWPaXhQodtz6QCNw2M/edit?usp=sharing">Science II</a>
+                            <a target="_blank" href="https://docs.google.com/document/d/14nwT9QpQQQE_mIlRgcWDR61QpW0FQ8944wULJGf5poY/edit?usp=drive_link">Science I</a>
+                            <a target="_blank" href="https://docs.google.com/document/d/19o2KGcKvtjXBh996aavqXxpMtIbmXIILZYcLTHz5qtg/edit?usp=drive_link">Science II</a>
+                        </div>
+                    </li>
+                    <li>
+                        <input type="radio" name="accordion" id="fourth"></input>
+                        <label for="fourth"><h2 className="subjecth2">Department of Education Question Banks</h2></label>
+                        <div className="lists accordioncontent">
+                            <a target="_blank" href="https://drive.google.com/file/d/13FFHRh7fRlHRoq9WdntEVQm2XSfwUrxu/view?usp=drive_link">Science I</a>
+                            <a target="_blank" href="https://drive.google.com/file/d/1_X9s_z6r8LXLl6CqW3LI9kIUaPFJiQAX/view?usp=drive_link">Science II</a>
                         </div>
                     </li>
                     <li>
                         <input type="radio" name="accordion" id="third"></input>
                         <label for="third"><h2 className="subjecth2">Science I Board Exam Questions</h2></label>
                         <div className="lists accordioncontent">
-                            <a target="#" href="https://docs.google.com/document/d/1H5AfZMhET70_lTbhsvELDunefiSdLyV41ZZksMFmpWc/edit?tab=t.91jq5xx29jzg">Gravitation</a>
-                            <a target="#" href="https://docs.google.com/document/d/1289PS03dqSraeMtHv0wXwfrtosaikGNrPKZJsacZb88/edit?tab=t.91jq5xx29jzg">Space Missions</a>
-                            <a target="#" href="https://docs.google.com/document/d/1wXOe3WL-iUoU8CSxve7LEK8rR1suXDiEXMIT1evm80g/edit?tab=t.91jq5xx29jzg">Refraction</a>
-                            <a target="#" href="https://docs.google.com/document/d/1Vsp39imU_pIPZplL0zxFgac_mhre38-g1xPO4yML5EE/edit?tab=t.91jq5xx29jzg">Lenses</a>
-                            <a target="#" href="https://docs.google.com/document/d/1hGraFgqtdfUz6VTDAR0UueNz1wvSAhcuGyGwNageKaY/edit?tab=t.91jq5xx29jzg">Periodic Classification</a>
-                            <a target="#" href="https://docs.google.com/document/d/1MGsgnplseC0TxJhKE73BjuqBBVyzBDOQRNfUdkhTYno/edit?tab=t.91jq5xx29jzg">Chemical Reactions</a>
-                            <a target="#" href="https://docs.google.com/document/d/1iEG6CC-UEM1ZTwImSgRokywwtq1ME2LvYDsBqT3Q4dc/edit?tab=t.91jq5xx29jzg">Carbon</a>
-                            <a target="#" href="https://docs.google.com/document/d/1h1GrZ8dONIka7JJIgFDfm5gj-HG1-8PXyKfgndCjVdc/edit?tab=t.91jq5xx29jzg">Metallurgy</a>
-                            <a target="#" href="https://docs.google.com/document/d/1ayty3R5zsynHhyJ81175GdDViAyGZUN_z8tGr0blnic/edit?tab=t.91jq5xx29jzg">Electricity</a>
-                            <a target="#" href="https://docs.google.com/document/d/1ZQIP7DZQzzfnlJ5V2Ix21J9CoDpnEbvcwK9ycMK8Q6I/edit?tab=t.91jq5xx29jzg">Heat</a>
+                            <a target="_blank" href="https://docs.google.com/document/d/1aJ984ApryKQo_PGUmtxeL5zH5hxEIwZrKP5guKEU-GU/edit?tab=t.91jq5xx29jzg">Gravitation</a>
+                            <a target="_blank" href="https://docs.google.com/document/d/1bSqbIp0tHaF5-BeqdTF6SFiAsIAN9E87mP7IGR4CR7k/edit?tab=t.91jq5xx29jzg">Space Missions</a>
+                            <a target="_blank" href="https://docs.google.com/document/d/1Z6JDiwNPoibD1-otH2fOc_AKzxrj2b2H6tesk1aesnM/edit?tab=t.91jq5xx29jzg">Refraction</a>
+                            <a target="_blank" href="https://docs.google.com/document/d/1gp0Q4jECSEJBO6_wFOzFBkwQIIV0TFLXt3miznLggx0/edit?tab=t.91jq5xx29jzg">Lenses</a>
+                            <a target="_blank" href="https://docs.google.com/document/d/1N88J3l42EsNm6B0Rdcy8sNpvNnUW-Qbh5XFbDyVKHI0/edit?tab=t.91jq5xx29jzg">Periodic Classification</a>
+                            <a target="_blank" href="https://docs.google.com/document/d/1wOHeq-zcNurtZAm04sad_MGF1Zr_v0JP04sU4lWy2Q4/edit?tab=t.91jq5xx29jzg">Chemical Reactions</a>
+                            <a target="_blank" href="https://docs.google.com/document/d/1rAyBMbtuygH7w7bfb43FtXYiPvt1MR1yf9D3P_9p2Vs/edit?tab=t.91jq5xx29jzg">Carbon</a>
+                            <a target="_blank" href="https://docs.google.com/document/d/14-x5_06TZKNBnUWnCw94HaXQ8yqT7jyv3BXJelIeQMs/edit?tab=t.91jq5xx29jzg">Metallurgy</a>
+                            <a target="_blank" href="https://docs.google.com/document/d/1ESgsfZqdQrt43TKCTqOkeJHAB7n2VqqmGhMtLhpFUdU/edit?tab=t.91jq5xx29jzg">Electricity</a>
+                            <a target="_blank" href="https://docs.google.com/document/d/1iOR8VsdbZ3oiIOIce2Cuk1zop_bUZA5V5lO3pPrRjck/edit?tab=t.91jq5xx29jzg">Heat</a>
                         </div>
                     </li>
                     <li>
                         <input type="radio" name="accordion" id="second"></input>
                         <label for="second"><h2 className="subjecth2">Science II Board Exam Questions</h2></label>
                         <div className="lists accordioncontent">
-                            <a target="#" href="https://docs.google.com/document/d/1BSbtKrb8ZACktnETgMY_8H4vhVaEBfluTg4Tv2L-R4Q/edit?tab=t.91jq5xx29jzg">Microbiology</a>
-                            <a target="#" href="https://docs.google.com/document/d/1s457jTADE6uNQ3t9nUf1E1yLClU00fIf1nR6d7cPWQ4/edit?tab=t.91jq5xx29jzg">Animal Classification</a>
-                            <a target="#" href="https://docs.google.com/document/d/16GJmkSbI3mLSJ88Ft_9RABUWkODoWDCM2_dhMfz7Xr8/edit?tab=t.91jq5xx29jzg">Heredity and Evolution</a>
-                            <a target="#" href="https://docs.google.com/document/d/1T-NaGMXJTQUsrc0Yv9fGJOf73LLIyZ8TIAzgnsI6SjY/edit?tab=t.91jq5xx29jzg">Life Processes Part 1</a>
-                            <a target="#" href="https://docs.google.com/document/d/1WWfQFu8m1ETof_i_E6YlL-pgiOHrtgK1ss58qxlfKxI/edit?tab=t.91jq5xx29jzg">Life Processes Part 2</a>
-                            <a target="#" href="https://docs.google.com/document/d/1oErYxNx3yjx4CM6RXEeV011RtB44pvZQbroNadeR4D8/edit?tab=t.7pji34nfietr">Towards Green Energy</a>
-                            <a target="#" href="https://docs.google.com/document/d/1musP8M0Mg3DLP5Kz6BUNvhjTUYYvEz435y4MD_K0Qbo/edit?tab=t.7pji34nfietr">Cell Biology</a>
-                            <a target="#" href="https://docs.google.com/document/d/1FTcT2CPMJHJJQdwOwgmvFk_PyQpjxLWELAt0eujETHg/edit?usp=sharing">Social Health</a>
+                            <a target="_blank" href="https://docs.google.com/document/d/1-aP_RphwpRUhe2wP4lZsqTqPqiZGIrUBig5gszU5xaU/edit?tab=t.91jq5xx29jzg">Microbiology</a>
+                            <a target="_blank" href="https://docs.google.com/document/d/1ybEH5VyQ1PaSt9aVbLkMEufkO6HpHHae7WmJo_nZq_M/edit?tab=t.91jq5xx29jzg">Animal Classification</a>
+                            <a target="_blank" href="https://docs.google.com/document/d/10kuFUrNMISPURZch3CBivHkhMGaSNUP-ArO6uhZz8U4/edit?tab=t.91jq5xx29jzg">Heredity and Evolution</a>
+                            <a target="_blank" href="https://docs.google.com/document/d/1q1ut25qbXPVDYhUt5VJsZCX4LvTkBXLI8ZCOnWN0LR4/edit?tab=t.91jq5xx29jzg">Life Processes Part 1</a>
+                            <a target="_blank" href="https://docs.google.com/document/d/1PaGk9M0YwjXpSG7l7_uYKTkpodr3VLtnYNGsrzBQGHw/edit?tab=t.91jq5xx29jzg">Life Processes Part 2</a>
+                            <a target="_blank" href="https://docs.google.com/document/d/15s5cMwf1M-usIZttVFjxIH7oQ5z_vShYuqCLiakQasM/edit?tab=t.7pji34nfietr">Towards Green Energy</a>
+                            <a target="_blank" href="https://docs.google.com/document/d/1a0NtxMqoguiezPWPLZ0KYe7_Fblw0_LjxPlpMOZzf1A/edit?tab=t.7pji34nfietr">Cell Biology</a>
+                            <a target="_blank" href="https://docs.google.com/document/d/1JaJdHuU0tqMUI5jdZKnU0sdTSlamDM7RKFY-miV0Mz8/edit?tab=t.7pji34nfietr">Social Health</a>
                         </div>
                     </li>
                 </ul>

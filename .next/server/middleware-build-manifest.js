@@ -25,10 +25,10 @@ self.__BUILD_MANIFEST = {
       "static/chunks/main.js",
       "static/chunks/pages/_error.js"
     ],
-    "/mission35": [
+    "/hindi": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
-      "static/chunks/pages/mission35.js"
+      "static/chunks/pages/hindi.js"
     ]
   },
   "ampFirstPages": []
